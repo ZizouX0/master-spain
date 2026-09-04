@@ -1,0 +1,12 @@
+# Firecrawl CLI local cache
+.firecrawl/
+
+# Local Claude Code settings (may contain API keys — never commit)
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
