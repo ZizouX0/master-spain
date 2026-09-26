@@ -18,6 +18,7 @@ Replace every `[bracket]`. Attach to each email: your diploma, all transcripts a
 
 ## Email 1 — UPV, Sistemas Software
 **To:** mitssmaster@posgrado.upv.es
+
 **Asunto:** Consulta de admisión – MU en Ingeniería y Tecnología de Sistemas Software – curso 2027-2028
 
 Estimada coordinación del Máster:
@@ -25,6 +26,7 @@ Estimada coordinación del Máster:
 Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería y Tecnología de Sistemas Software en el curso 2027-2028.
 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Les agradecería que me confirmaran:
+
 1. si mi titulación permite el acceso al máster;
 2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
 3. el nivel de español recomendado para seguir las clases.
@@ -32,19 +34,41 @@ Resido en Túnez y realizaré un curso intensivo de español en España de febre
 Adjunto mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
+
 Un cordial saludo,
+
 [Nombre y apellidos] · [teléfono] · [correo]
 
 *English: asks whether your degree gives access, whether the programme takes part in Fase 0 for 2027-28 and when, and what Spanish level is recommended.*
 
 ## Email 2 — UPV, Análisis de Datos
 **To:** evallada@eio.upv.es
+
 **Asunto:** Consulta de admisión – MU en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones – curso 2027-2028
 
-Same text as Email 1, replacing the programme name with "Máster Universitario en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones" and the greeting with "Estimada profesora Vallada:".
+Estimada profesora Vallada:
+
+Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones en el curso 2027-2028.
+
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
+
+1. si mi titulación permite el acceso al máster;
+2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
+3. el nivel de español recomendado para seguir las clases.
+
+Adjunto mi título, mi expediente académico y mi currículum.
+
+Muchas gracias por su atención.
+
+Un cordial saludo,
+
+[Nombre y apellidos] · [teléfono] · [correo]
+
+*English: same questions as Email 1 (access, Fase 0 dates, Spanish level), addressed to the coordinator, Prof. Vallada.*
 
 ## Email 3 — UCM, Ingeniería Informática (pre-admission letter)
 **To:** vdpfdi@ucm.es
+
 **Asunto:** Solicitud de carta de preadmisión – MU en Ingeniería Informática – curso 2027-2028
 
 Estimado profesor Martí Oliet:
@@ -52,6 +76,7 @@ Estimado profesor Martí Oliet:
 Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Deseo solicitar la admisión al Máster Universitario en Ingeniería Informática para el curso 2027-2028.
 
 Como estudiante extranjero/a residente en Túnez, necesito una carta de preadmisión para tramitar mi visado. Les agradecería que me indicaran:
+
 1. el procedimiento y los documentos necesarios para solicitar la carta de preadmisión;
 2. si debo solicitar previamente la comprobación del nivel de formación de mi título;
 3. los plazos de preinscripción para 2027-2028.
@@ -59,13 +84,16 @@ Como estudiante extranjero/a residente en Túnez, necesito una carta de preadmis
 Actualmente estudio español y acreditaré el nivel B2 mediante el DELE o el SIELE antes de la preinscripción. Adjunto mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
+
 Un cordial saludo,
+
 [Nombre y apellidos] · [teléfono] · [correo]
 
 *English: asks how to get a pre-admission letter for your visa, whether the degree-level check comes first, and the 2027-28 dates; says you'll have B2 before pre-registration.*
 
 ## Email 4 — UAM, Ciencia de Datos (Early Admission)
 **To:** master.ciencia.datos@uam.es · **Cc:** posgrado.oficial@uam.es
+
 **Asunto:** Early Admission 2027-2028 – MU en Ciencia de Datos – consulta
 
 Estimada coordinación del Máster:
@@ -73,6 +101,7 @@ Estimada coordinación del Máster:
 Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año]. Según la declaración de equivalencia del Ministerio, mi nota media es de [nota equivalente]/10. Me interesa solicitar el Máster Universitario en Ciencia de Datos por la vía de Early Admission para el curso 2027-2028.
 
 Les agradecería que me confirmaran:
+
 1. qué nota mínima se aplica a este máster (8,70 o 7,30);
 2. si el certificado de nivel B2 de español puede presentarse más adelante (por ejemplo, antes de junio de 2027), ya que realizaré un curso intensivo en España de febrero a junio de 2027;
 3. los pasos para enviar la solicitud de Early Admission.
@@ -80,13 +109,16 @@ Les agradecería que me confirmaran:
 Adjunto mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
+
 Un cordial saludo,
+
 [Nombre y apellidos] · [teléfono] · [correo]
 
 *English: asks which minimum grade applies, whether the B2 certificate can come later, and how to apply through Early Admission.*
 
 ## Email 5 — Universidad Europea, Big Data (Madrid)
 **To:** postgrado@universidadeuropea.es
+
 **Asunto:** Admisión septiembre 2027 – Máster Universitario en Análisis de Datos Masivos (Big Data) – Madrid
 
 Estimado equipo de Admisiones:
@@ -94,6 +126,7 @@ Estimado equipo de Admisiones:
 Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año]. Me interesa el Máster Universitario en Análisis de Datos Masivos (Big Data), en el grupo en español, con inicio en septiembre de 2027.
 
 Les agradecería que me informaran sobre:
+
 1. el proceso y las fechas de admisión para ese inicio;
 2. el nivel de español exigido y si la admisión puede quedar condicionada a acreditar el nivel B2 antes de la matrícula;
 3. el importe de la reserva de plaza y si se devuelve en caso de denegación del visado;
@@ -102,7 +135,9 @@ Les agradecería que me informaran sobre:
 Adjunto mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
+
 Un cordial saludo,
+
 [Nombre y apellidos] · [teléfono] · [correo]
 
 *English: asks about the admission process and dates, the Spanish level and whether admission can be conditional on B2, the deposit and whether it's refunded if the visa is refused, and whether they issue a letter usable for the visa.*
