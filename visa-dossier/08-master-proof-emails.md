@@ -16,6 +16,8 @@ Replace every `[bracket]`. Attach to each email: your diploma, all transcripts a
 
 ## Who to write to (checked on the official pages, 26 Sep 2026)
 
+UPV programmes 1 and 2 show **"Requisito lingüístico: No"**, while programme 6 shows **"Español – B2"**. For your visa file, programme 6 is the UPV one to cite, and one Fase 0 application can cover all three.
+
 | # | Programme | Person | Email |
 |---|---|---|---|
 | 1 | UPV – MU Ingeniería y Tecnología de Sistemas Software | Prof. Silvia Mara Abrahao Gonzales (dirección académica) | mitssmaster@posgrado.upv.es |
@@ -23,6 +25,7 @@ Replace every `[bracket]`. Attach to each email: your diploma, all transcripts a
 | 3 | UCM – MU Ingeniería Informática (pre-admission letter) | Prof. Narciso Martí Oliet (Vicedecano de Posgrado) | vdpfdi@ucm.es |
 | 4 | UAM – MU Ciencia de Datos (Early Admission) | Programme coordination (no name published) | master.ciencia.datos@uam.es · cc posgrado.oficial@uam.es |
 | 5 | Universidad Europea – MU Análisis de Datos Masivos (Big Data) | Admissions (director: Prof. Óscar Marbán) | postgrado@universidadeuropea.es |
+| 6 | **UPV – MU Ingeniería de Computadores y Redes (B2 required, Fase 0) — recommended UPV option** | Prof. Juan Carlos Ruiz García (dirección académica) | mic@posgrado.upv.es |
 
 ---
 
@@ -151,6 +154,31 @@ Un cordial saludo,
 [Nombre y apellidos] · [teléfono] · [correo]
 
 *English: asks about the admission process and dates, the Spanish level and whether admission can be conditional on B2, the deposit and whether it's refunded if the visa is refused, and whether they issue a letter usable for the visa.*
+
+## Email 6 — UPV, Computadores y Redes (recommended UPV option)
+**To:** mic@posgrado.upv.es
+
+**Asunto:** Consulta de admisión – MU en Ingeniería de Computadores y Redes – curso 2027-2028 (Fase 0)
+
+Estimado profesor Ruiz García:
+
+Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería de Computadores y Redes en el curso 2027-2028.
+
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2 que exige el máster. Le agradecería que me confirmara:
+
+1. si mi titulación permite el acceso al máster;
+2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
+3. hasta qué fecha puedo acreditar el nivel B2 de español (DELE o SIELE).
+
+Adjunto mi título, mi expediente académico y mi currículum.
+
+Muchas gracias por su atención.
+
+Un cordial saludo,
+
+[Nombre y apellidos] · [teléfono] · [correo]
+
+*English: asks whether your degree gives access, the Fase 0 dates for 2027-28, and by when you must prove B2 (DELE or SIELE).*
 
 ---
 
