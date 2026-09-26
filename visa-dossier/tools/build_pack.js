@@ -23,7 +23,7 @@ function runs(text, opts = {}) {
   if (last < text.length) out.push(new TextRun({ text: text.slice(last), ...opts }));
   return out;
 }
-const p = (text, o = {}) => new Paragraph({ children: runs(text, o.run || {}), spacing: { after: o.after ?? 120, line: o.line ?? 276 }, alignment: o.align, indent: o.indent });
+const p = (text, o = {}) => new Paragraph({ children: runs(text, o.run || {}), spacing: { after: o.after ?? 100, line: o.line ?? 259 }, alignment: o.align, indent: o.indent });
 const blank = () => new Paragraph({ children: [], spacing: { after: 60 } });
 const h1 = (t) => new Paragraph({ heading: HeadingLevel.HEADING_1, children: [new TextRun(t)] });
 const h2 = (t) => new Paragraph({ heading: HeadingLevel.HEADING_2, children: [new TextRun(t)] });
@@ -173,10 +173,10 @@ children.push(
 const letterHead = (extra) => [
   p("[Nombre y apellidos]", { after: 0 }),
   p("[Dirección], [Código postal] [Ciudad], Túnez", { after: 0 }),
-  p("Pasaporte n.º [número] · Tel.: [+216 …] · [correo electrónico]", { after: 240 }),
+  p("Pasaporte n.º [número] · Tel.: [+216 …] · [correo electrónico]", { after: 160 }),
   p("Sección Consular", { after: 0 }),
-  p("Embajada de España en Túnez", { after: 240 }),
-  p("[Ciudad], a [día] de [mes] de 2026", { align: AlignmentType.RIGHT, after: 240 }),
+  p("Embajada de España en Túnez", { after: 160 }),
+  p("[Ciudad], a [día] de [mes] de 2026", { align: AlignmentType.RIGHT, after: 160 }),
   ...extra,
 ];
 children.push(
@@ -198,7 +198,7 @@ children.push(
   p("**Financiación.** Mi [padre/madre], [nombre], [profesión] en [empleador], se compromete a cubrir todos mis gastos (carta de compromiso adjunta). He abierto un expediente escolar bancario con un bloqueo irrevocable de [importe] € (700 € al mes durante [N] meses), por encima del mínimo exigido. El curso está pagado en su totalidad y mi alojamiento en [ciudad] está reservado y pagado [hasta (fecha)].", { align: AlignmentType.JUSTIFIED }),
   p("**Mi futuro.** Tras el máster, mi objetivo es [plan profesional concreto] en Túnez, donde vive mi familia.", { align: AlignmentType.JUSTIFIED }),
   p("Me comprometo a cumplir la legislación española y las condiciones del visado durante toda mi estancia. Quedo a su disposición para cualquier documento adicional o entrevista.", { align: AlignmentType.JUSTIFIED }),
-  p("Atentamente,", { after: 480 }),
+  p("Atentamente,", { after: 360 }),
   p("[Firma]", { after: 0 }),
   p("[Nombre y apellidos]"),
   pageBreak(),
@@ -240,7 +240,7 @@ children.push(
     "Currículum vítae.",
   ].map(t => num("idx", t)),
   p("Quedo a su disposición para cualquier aclaración, documentación adicional o entrevista."),
-  p("Atentamente,", { after: 480 }),
+  p("Atentamente,", { after: 360 }),
   p("[Firma]", { after: 0 }),
   p("[Nombre y apellidos]"),
   pageBreak(),
@@ -356,7 +356,7 @@ const doc = new Document({
   creator: "Visa dossier",
   title: "Spain Study Visa - Application Pack (Tunis)",
   styles: {
-    default: { document: { run: { font: "Arial", size: 21 } } },
+    default: { document: { run: { font: "Arial", size: 20 } } },
     paragraphStyles: [
       { id: "Heading1", name: "Heading 1", basedOn: "Normal", next: "Normal", quickFormat: true,
         run: { size: 32, bold: true, font: "Arial", color: ACCENT },
