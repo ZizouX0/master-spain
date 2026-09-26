@@ -9,9 +9,9 @@ Estudio Sampere is a private language school accredited by Instituto Cervantes. 
 | How long the permit lasts | The length of the course, **1 year maximum** (art. 55.1) | The whole official length of the programme |
 | Extensions (*prórroga*) | **Only 1**, and you need a DELE or SIELE diploma, or proof you've registered for the DELE (art. 55.5) | Up to 2 |
 | Work while studying | **Not automatic.** You'd need a separate work permit application (art. 57.1) | Automatic, up to 30 hours a week (art. 57.1–2) |
-| Can the permit turn into a master's from inside Spain? | **Not provided in the regulation.** An extension must be for the same category you were admitted under (art. 55.3). A new application from inside Spain is only open to people who hold a *residence* permit (art. 54.1), and a study permit is a *stay*, not a residence. | Not applicable |
+| Can the permit turn into a master's from inside Spain? | **Yes, with a new application, not an extension.** Art. 54.1 ¶2 lets anyone legally in Spain file a higher-education (52.1.a) application at the oficina de extranjería, or the university files it (art. 54.6). File at least 2 months before your permit expires (art. 54.3) and 2 months before the master's starts. | Not applicable |
 
-**What this means for you:** plan on **going back to Tunisia in summer 2027 and applying for a new visa for the master's.** Don't count on switching inside Spain. If someone tells you it's possible, ask a Spanish immigration lawyer (*abogado de extranjería*) to confirm it in writing before you rely on it.
+**What this means for you (corrected in version 2):** once you're admitted to the master's, you can apply for the new permit **from inside Spain** at least 2 months before your language-course permit ends, or go back to Tunisia and apply at the embassy. An earlier version of this file wrongly said the in-Spain switch wasn't possible; the mock review caught it and the regulation text confirms it.
 
 Also plan your budget with **zero income from work** during the language course.
 

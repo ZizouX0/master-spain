@@ -6,7 +6,7 @@ Plan: full-time Spanish course at **Estudio Sampere** (preparation), then a mast
 
 ## Main deliverable
 
-**[Dossier_Visa_Espagne.docx](Dossier_Visa_Espagne.docx)**: the complete application pack in Word. It contains the analysis, the checklist in BLS order, and every letter (motivation, cover letter, sponsorship letter, medical certificate text, email to the school, email requesting an appointment), plus interview preparation. Personal facts are left as yellow-highlighted blanks. **[Dossier_Visa_Espagne.pdf](Dossier_Visa_Espagne.pdf)** is the same pack as a PDF (A4, 14 pages).
+**[Dossier_Visa_Espagne.docx](Dossier_Visa_Espagne.docx)**: the complete application pack in Word. It contains the analysis, the checklist in BLS order, and every letter (motivation, cover letter, sponsorship letter, medical certificate text, email to the school, email requesting an appointment), plus interview preparation. Personal facts are left as yellow-highlighted blanks. **[Dossier_Visa_Espagne.pdf](Dossier_Visa_Espagne.pdf)** is the same pack as a PDF (A4, 20 pages). **Version 2** includes every correction from the four-reviewer mock consular review, a to-do list, a page on the 45 extra stay days, and an English translation page after each Spanish text. Where the markdown notes below differ from the pack, the pack is correct.
 
 To regenerate both from `visa-dossier/`:
 
