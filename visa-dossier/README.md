@@ -4,6 +4,10 @@ Applicant: resident of Tunisia, applying at the **Embassy of Spain in Tunis** th
 
 Plan: full-time Spanish course at **Estudio Sampere** (preparation), then a master's in Spain starting **September 2027**.
 
+## Main deliverable
+
+**[Dossier_Visa_Espagne.docx](Dossier_Visa_Espagne.docx)**: the complete application pack in Word. It contains the analysis, the checklist in BLS order, and every letter (motivation, cover letter, sponsorship letter, medical certificate text, email to the school, email requesting an appointment), plus interview preparation. Personal facts are left as yellow-highlighted blanks. To regenerate it: `NODE_PATH=$(npm root -g) node tools/build_pack.js Dossier_Visa_Espagne.docx`.
+
 ## Files
 
 | File | What it is | Status |
