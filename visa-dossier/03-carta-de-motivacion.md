@@ -35,7 +35,7 @@ Me dirijo a ustedes para solicitar un visado nacional de estudios con el fin de 
 - [meses de 2027]: solicitud de admisión en los másteres mencionados.
 - Al finalizar el curso regresaré a Túnez para solicitar, en esta Embajada, el visado correspondiente al máster, en cumplimiento de la normativa vigente.
 
-**Financiación.** Mis gastos durante toda la estancia están cubiertos por [mi padre/madre, D./Dña. nombre, profesión], según la carta de compromiso de manutención adjunta, legalizada, apostillada y traducida. Los medios acreditados ([importe] €) superan el mínimo exigido del 100 % del IPREM para [N] meses. La matrícula del curso está íntegramente pagada y [el alojamiento está reservado / pagado por adelantado] en [dirección o tipo de alojamiento].
+**Financiación.** Mis gastos durante toda la estancia están cubiertos por [mi padre/madre, D./Dña. nombre, profesión], según la carta de compromiso de manutención adjunta. He abierto un expediente escolar bancario con autorización de transferencia a España y un bloqueo irrevocable de [importe] € (700 € mensuales durante [N] meses), cantidad superior al mínimo exigido del 100 % del IPREM. La matrícula del curso está íntegramente pagada y [el alojamiento está reservado / pagado por adelantado] en [dirección o tipo de alojamiento].
 
 **Mi proyecto profesional.** Al concluir mis estudios, mi objetivo es [plan profesional concreto y verdadero, p. ej. «incorporarme al sector de … en Túnez», «desarrollar …»]. [Una frase sobre vínculos reales con Túnez, si procede.]
 

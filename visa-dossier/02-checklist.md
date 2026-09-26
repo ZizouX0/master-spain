@@ -1,60 +1,103 @@
-# Checklist: national study visa, Embassy of Spain in Tunis (Spanish language course)
+# Master checklist: national study visa, Spain, submitted in Tunis (Spanish language course)
 
-**Where to apply:** BLS International Tunisia (<https://tunisia.blsspainvisa.com>). Book an appointment on their site. Their "Étudiant" page is for courses under 90 days, so for a longer course follow the embassy's list below.
+Built from three sources:
+- **[OFFICIAL]** the Embassy of Spain in Tunis website
+- **[AGENCY]** an agency checklist for Tunis (the file you uploaded)
+- **[GROUP]** applicants' experiences in the "BLS visa espagne TUNISIE" Facebook group (June–July 2026)
 
-**Two rules that apply to every Tunisian document** (birth certificate, criminal record, medical certificate, sponsorship letter, employer letter and so on):
-1. **Apostille.** In Tunisia this is issued by authorised notaries (in place since 2019).
-2. **Sworn translation into Spanish** (*traductor jurado*) of anything not already in Spanish.
+Where they disagree, you'll find a ⚠️ and a recommendation.
 
-Bring **the original and one photocopy** of every item.
+## How the file is assembled at BLS
 
-## A. Documents the embassy requires
+- For **each** document, stack it in this order: **original → photocopy → sworn Spanish translation → photocopy of the translation**. This counts as one item. **[GROUP]**
+- At the counter, BLS gives you its own checklist. Tick what you have and arrange the file in that order. **[GROUP]**
+- **Apostille** comes from an authorised notary. **Translation** is done by a sworn translator (*traducteur assermenté*) from the embassy's list. Many translators work with a notary and handle the apostille before and after the translation; the group recommends this option. Where needed, the apostille goes on **the original and on the translation**. **[GROUP] [AGENCY]**
+- An interview is rare ("99% without interview" according to the group). Still, be ready to explain your plan in 2 minutes. **[GROUP]**
 
-| # | Document | How to get it right |
+## 1. Forms and identity
+
+| # | Document | Details |
 |---|---|---|
-| 1 | **National visa application form**, filled in completely and signed | [Official form (ES/EN)](https://www.exteriores.gob.es/en/EmbajadasConsulados/Documents/Consular/20210611-Formulario%20nacional%20espa%C3%B1ol-ingl%C3%A9s.pdf). Type it. Choose "Estudios" as the reason. Use the course dates and the school's address exactly as they appear on the admission letter. |
-| 2 | **Photo**: recent, colour, passport size, light background, face uncovered | BLS rejects photos that don't meet the spec. Don't reuse the photo from your passport. |
-| 3 | **Passport** valid for **at least 1 year**, issued **less than 10 years ago**, with **2 blank pages**, plus a copy of the photo page | Renew it first if it expires before the end of 2027, because you'll need it for the master's visa too. Add copies of your old Schengen visas if you have any; they show a clean travel history. |
-| 4 | **Admission letter and proof of payment** from the school | See "What the school's letter must say" below. |
-| 5 | **Proof of money**: 100% of IPREM (€600 a month) for the whole stay | See [04-prise-en-charge.md](04-prise-en-charge.md). If a parent pays, include their sponsorship letter, proof of their income, their bank statements (stamped by the bank; 6 months is safest), your birth certificate, and their national ID card (CIN). |
-| 6 | **Health insurance** from an insurer **authorised in Spain**, covering the **whole stay**, with cover equivalent to Spain's public health system | Choose a "visado de estudiante" policy with **no co-payment (*sin copago*)** and **no waiting period (*sin carencia*)**, including repatriation. **Travel insurance is not accepted.** Examples include Adeslas, Sanitas, DKV, ASISA, and the long-stay insurance link on the BLS site. |
-| 7 | **Criminal record, Bulletin n°3 (B3)** (for stays over 180 days), for every country you've lived in during the last 5 years | Get it recent. Other consulates accept it up to 6 months old; less than 3 months is safer. Then apostille and translate it. **Bring it even if your course is shorter**, since you'll need it for the master's visa anyway. |
-| 8 | **Medical certificate** | Wording (French, then Spanish): *« Ce certificat médical atteste que M./Mme [nom] ne souffre d'aucune des maladies pouvant avoir de graves répercussions sur la santé publique conformément au Règlement sanitaire international de 2005. »* / *"Este certificado médico acredita que el Sr./la Sra. [nombre] no padece ninguna de las enfermedades que pueden tener repercusiones graves para la salud pública de conformidad con el Reglamento Sanitario Internacional de 2005."* Have your signature legalised, then apostille and translate. |
-| 9 | **Proof you live in Tunisia** | Your CIN (national ID card), plus a certificate of residence (*certificat de résidence*) if the address on the CIN is out of date. |
-| 10 | **Visa fee** | Paid at BLS, plus the BLS service fee. Check the current amounts on their site. |
+| 1 | **National visa application form** | Typed (easier to read). Signed **in blue ink** with the date on the last page. Double-check your postal address, email and phone. [Form](https://www.exteriores.gob.es/en/EmbajadasConsulados/Documents/Consular/20210611-Formulario%20nacional%20espa%C3%B1ol-ingl%C3%A9s.pdf) **[OFFICIAL] [AGENCY]** |
+| 2 | **Photo**, 3.5 × 4.5 cm, **white background**, less than 6 months old, **glued onto the form** | **[AGENCY] [GROUP]** |
+| 3 | **Passport** plus a copy of **the first 5 pages** | Valid for **at least 1 full year**, issued less than 10 years ago, 2 blank pages. Bring **all your old passports and visas**. **[OFFICIAL] [AGENCY]** |
+| 4 | **Birth certificate** (*extrait de naissance*), in French, **issued within the last 3 months** | Apostille and sworn translation. **[AGENCY] [GROUP]** |
+| 5 | **Proof you live in Tunisia** (CIN, national ID card) | **[OFFICIAL]** |
 
-### What the school's letter must say
+## 2. The school (Estudio Sampere)
 
-Ask Estudio Sampere for a **visa letter** that states:
-- your full name, passport number and date of birth
-- the **exact start and end dates**
-- **full-time, intensive, in-person** attendance, with the **hours per week** (in-person is required by law)
-- the campus address (Madrid, Salamanca or Alicante)
-- that the centre is **"Centro acreditado por el Instituto Cervantes"** (the legal condition for this category). Ask them to confirm the accreditation covers the campus you picked.
-- that **the fees are paid in full**, with the receipt or bank transfer attached
-- if you're booking accommodation through them: the address, dates, and whether it's prepaid
+| # | Document | Details |
+|---|---|---|
+| 6 | **Acceptance certificate and letter** | Must state your name and passport number, exact dates, **full-time, intensive, in-person, X hours a week**, the campus, and **"Centro acreditado por el Instituto Cervantes"**. **[OFFICIAL]** |
+| 7 | **Payment confirmation**: the SWIFT transfer **plus a letter from the school confirming it received the money** | Paying in instalments is allowed, but then **the unpaid balance has to be added to the blocked account** (item 10). **[AGENCY] [GROUP]** |
+| 8 | **Certificate that you don't hold a scholarship** (*attestation de non-boursier*) | ⭐ **Required for language schools only.** No translation needed. **[AGENCY]** Ask your bank or the agency which office issues it in your case. |
 
-## B. Documents that make a stronger case
+## 3. Money
 
-The embassy doesn't ask for these. Adding them answers the officer's questions before they're asked.
+| # | Document | Details |
+|---|---|---|
+| 9 | **Student file at the bank** (*dossier scolaire*) with **authorisation to transfer the money to Spain** | See [04-prise-en-charge.md](04-prise-en-charge.md). **[AGENCY] [GROUP]** |
+| 10 | **Blocking certificate** (*attestation de blocage*), with the reason "irrevocably blocked" | Aim for **at least €700 × the number of months** of stay, plus any unpaid tuition. Apostille and sworn translation. **[AGENCY]** ⚠️ See the "Amount" note below. |
+| 11 | **Sponsorship letter** (*attestation de prise en charge*) signed by the **parent(s)**, signature legalised at the municipality | Sworn translation (and apostille). **Only you or your parents** can sponsor, nobody else. **[AGENCY] [OFFICIAL/BLS]** |
+| 12 | **Sponsoring parent's documents** | CIN or passport copy. **Employee:** 3 latest payslips and an *attestation de travail*, both issued within the last 3 months and translated. **Trader:** business register extract (RNE), tax card (*patente*) and business opening declaration, translated. **Retired:** pension certificates and CNRPS/CNSS history, translated. **Bank statements:** 3 months at minimum, **ideally 6**; these **don't need translating**. **[AGENCY]** |
 
-| Document | Why it helps |
+## 4. Health and background
+
+| # | Document | Details |
+|---|---|---|
+| 13 | **Medical certificate**, issued **within the last 3 months** | From a private doctor, **legalised by the regional health directorate** (*Direction Régionale de la Santé*) of the doctor's region; or from a public health centre. Then apostille and sworn translation. It must show your name, date of birth, CIN or passport number, and the doctor's signature and stamp, plus this sentence: *« … ne souffre d'aucune des maladies pouvant avoir un impact grave sur la santé publique conformément aux dispositions du Règlement Sanitaire International (2005) »* **[OFFICIAL] [AGENCY] [GROUP]** |
+| 14 | **Criminal record, Bulletin n°3 (B3)** | **Request it online as early as possible**, because it can take more than 2 weeks. Then apostille and sworn translation. **[OFFICIAL] [GROUP]** |
+| 15 | **Insurance** covering the whole stay | ⚠️ See the "Insurance" note below. |
+
+## 5. Travel and accommodation
+
+| # | Document | Details |
+|---|---|---|
+| 16 | **Accommodation**: a certificate or booking, **at least the first 3 months**, with **proof of payment** | The check-in date must match the flight date. **[AGENCY] [GROUP]** |
+| 17 | **Return flight reservation** | A reservation is enough. **[AGENCY] [GROUP]** |
+
+## 6. Your background (strengthens the file)
+
+| # | Document | Details |
+|---|---|---|
+| 18 | **Bac and university diplomas, plus all transcripts** | Sworn translation, and apostille on the original and on the translation. **[AGENCY] [GROUP]** |
+| 19 | **Internship and work certificates** | Sworn translation. **[AGENCY]** |
+| 20 | **Motivation letter**, short ("don't make it long") | [03-carta-de-motivacion.md](03-carta-de-motivacion.md). **[GROUP] [AGENCY]** |
+| 21 | **CV** | **[GROUP] [AGENCY]** |
+| 22 | **Language certificate** | The group "strongly recommends" one. For a Spanish course, include proof of your **current** Spanish level. It supports the plan to reach B2. **[GROUP]** |
+
+## 7. Fees
+
+| Item | Amount |
 |---|---|
-| **Motivation letter in Spanish** ([03-carta-de-motivacion.md](03-carta-de-motivacion.md)) | Explains the path from the Spanish course to the DELE to your master's in September 2027. |
-| **Cover letter and document index** ([05-carta-de-presentacion.md](05-carta-de-presentacion.md)) | A tidy file makes the officer's job easy. |
-| **Your diplomas and transcripts** (bac, licence or degree), apostilled and translated | Show that a master's is the logical next step for you. |
-| **The master's programmes you're targeting**: printed pages showing each programme's name, university, language requirement (B2 or C1) and admission calendar | Shows the language course has a concrete purpose. |
-| **Proof of your current Spanish level** (a certificate, or the school's placement test) | Shows where you're starting from. |
-| **Accommodation**: a booking or contract, ideally prepaid for the whole stay | Prepaid accommodation lowers the money you have to show, and it shows you've planned. |
-| **CV** (Europass format) | Makes your background and plan easy to read. |
-| **Proof of ties to Tunisia** (family record book / *livret de famille*, a letter from an employer holding your job, property papers) | Only include what's real and relevant. |
+| Visa fee | **372 TND, cash** **[AGENCY]**. Check the current amount with BLS. |
+| BLS service fee | 57.810 TND **[BLS site]** |
 
-## C. Common reasons for refusal to avoid
+---
 
-- **A large unexplained deposit** shortly before applying. The money should build up over months, and its source should be documented.
-- **Missing apostilles or sworn translations**, especially on the sponsorship letter and birth certificate.
-- **Insurance with co-payments, a waiting period, or only travel cover.**
-- **A school that isn't Cervantes-accredited**, or a course that's part-time or online.
-- **Dates that don't match** across the form, the school letter, the insurance and the accommodation.
-- **A motivation letter that doesn't explain why** you need this course before your master's.
-- **Applying less than 2 months before the course starts.**
+## ⚠️ Where the sources disagree
+
+### Insurance
+- **[OFFICIAL]** requires *health* insurance from an **insurer authorised to operate in Spain**, with cover similar to Spain's public health system, for the **whole stay**. The Manchester consulate adds: no co-payment, no waiting period, a minimum of €30,000 if the policy has a limit, and **"travel insurance is not accepted"**.
+- **[AGENCY]** suggests *travel* insurance (about 500 TND) with €30,000 cover, valid until 15 days after your return, plus a signed sworn statement and a translation of the policy terms.
+- **Recommendation:** the official requirement is what the officer applies. Buy a **student-visa health policy from an insurer authorised in Spain**, with no co-payment and no waiting period, covering the whole stay plus 15 days. If you take the agency's policy instead, get it **in writing** that the insurer is authorised in Spain and that the policy is accepted for a *national* study visa.
+
+### Amount of money
+- **[OFFICIAL]** 100% of IPREM = **€600 a month** (legal minimum).
+- **[AGENCY]** **€700 a month**, blocked irrevocably.
+- **Recommendation:** block **at least €700 a month**. That meets both, and it gives you a margin.
+
+### Getting an appointment
+- **[OFFICIAL]** The page describes appointments for **Schengen** visas: on the BLS website (the first and third Sunday of each month at 10:00), or in person at BLS every Friday from 12:00, with 15 slots a week for purposes other than tourism.
+- **[GROUP]** For a study visa, applicants **email the embassy** once their file is about 15 days from ready. Subject: "Rendez-vous visa d'étude". The email gives your name, passport number and study plan, with **your passport and your admission letter attached as PDFs**.
+- **Recommendation:** ask BLS which channel applies to national study visas (info.tun@blshelpline.com, +216 71 138 748). Book as early as the 2-month rule allows.
+
+## Common reasons for refusal
+
+- A large, recent, unexplained deposit, or a blocked amount below €700 × months.
+- A missing apostille or translation (especially on the medical certificate, B3, birth certificate and blocking certificate).
+- A medical certificate without the exact sentence, or not legalised by the regional health directorate.
+- Travel insurance that isn't accepted (see above).
+- A school that isn't Cervantes-accredited, or a part-time or online course.
+- Dates that don't match across the form, school letter, insurance, accommodation, flight and sponsorship letter.
+- A file submitted less than 2 months before the course starts.

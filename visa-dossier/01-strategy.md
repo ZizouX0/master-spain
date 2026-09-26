@@ -28,7 +28,7 @@ Language-course visas get more scrutiny than degree visas, because the officer h
 - **The course is full-time, intensive and in person**, with the hours per week and exact dates written in the school's letter. At least 20 lessons a week is the norm for intensive courses. Ask the school to confirm this.
 - **The whole course is already paid.** The receipt proves the school received the money, not just an invoice.
 - **The plan hangs together.** Your current Spanish level, the level you're aiming for (most Spanish-taught master's ask for B2), the DELE exam you'll register for, the master's programmes you're targeting and their language requirement, and a start in September 2027 should all connect.
-- **The money is clear:** at least €600 a month (100% of IPREM) for the whole stay. It should sit in a stable account with a history, from a source you can explain, such as a parent's salary.
+- **The money is clear:** at least €700 a month blocked for the whole stay (the legal minimum is €600). It should come from a stable account with a history and a source you can explain, such as a parent's salary.
 - **You have somewhere to live.** If the whole stay is prepaid, the money you need to show is reduced.
 - **You have reasons to come back**, such as family in Tunisia and a professional plan there after the master's. Only say this if it's true.
 
@@ -43,11 +43,13 @@ Language-course visas get more scrutiny than degree visas, because the officer h
 | **Jun–early Jul 2027** | Get your master's admission and pay the fees. Back in Tunisia, apply for the master's visa **at least 2 months before September**. |
 | **Sept 2027** | The master's starts. |
 
-## 5. Money (IPREM 2026 = €600/month)
+## 5. Money
 
-| Period | Minimum to show |
+The legal minimum is €600 a month (IPREM 2026). In practice in Tunis, **€700 a month is blocked irrevocably** (agency checklist). Plan on **€700**.
+
+| Period | Amount to block |
 |---|---|
-| Language course, e.g. 5 months (Feb–Jun) | 5 × €600 = **€3,000**, plus the course fees already paid |
-| Master's, 12 months (next application) | 12 × €600 = **€7,200**, plus the master's fees |
+| Language course, e.g. 5 months (Feb–Jun) | 5 × €700 = **€3,500**, plus any course fees not yet paid |
+| Master's, 12 months (next application) | 12 × €700 = **€8,400**, plus any master's fees not yet paid |
 
-The minimum is the legal floor. Showing a comfortable margin above it, and that your family could also fund the master's year, makes the whole plan believable.
+Showing that your family could also fund the master's year makes the whole plan believable.

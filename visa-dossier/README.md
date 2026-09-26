@@ -26,6 +26,12 @@ Plan: full-time Spanish course at **Estudio Sampere** (preparation), then a mast
   <https://www.exteriores.gob.es/en/EmbajadasConsulados/Documents/Consular/20210611-Formulario%20nacional%20espa%C3%B1ol-ingl%C3%A9s.pdf>
 - BLS Tunisia sponsorship form (Attestation de prise en charge):
   <https://tunisia.blsspainvisa.com/assets/pdf/french/ATTESTATION%20DE%20PRISE%20EN%20CHARGE.pdf>
+- Embassy page on where to submit (BLS, Rue du Lac d'Annecy, Immeuble Adonis, Lac 1; +216 71 138 748; info.tun@blshelpline.com)
+
+## Practical sources (not official, cross-checked in 02-checklist.md)
+
+- An agency checklist for Tunis ("Spain Visa Checklist", uploaded 26 Sept 2026): €700/month blocked, certificate of non-scholarship for language schools, 372 TND fee, medical certificate legalised by the regional health directorate.
+- Posts in the "BLS visa espagne TUNISIE" Facebook group (June–July 2026): how to order the file (original → copy → translation → copy), getting the B3 early, requesting the appointment by email, interviews being rare.
 
 ## Ground rule
 
