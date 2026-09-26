@@ -60,8 +60,8 @@ Where they disagree, you'll find a ⚠️ and a recommendation.
 
 | # | Document | Details |
 |---|---|---|
-| 18 | **Bac and university diplomas, plus all transcripts** | Sworn translation, and apostille on the original and on the translation. **[AGENCY] [GROUP]** |
-| 19 | **Internship and work certificates** | Sworn translation. **[AGENCY]** |
+| 18 | **Bac (diploma + transcript) and university diploma, plus all transcripts** | Not required by the embassy for a language course, but both the agency and the group include them. They prove the master's is your logical next step. If your university diploma hasn't been issued yet, use the **attestation de réussite**. Sworn translation, and apostille on the original **and** on the translation. **You'll need the same documents for your master's applications**, so ask your target universities whether they'll accept your translation too, and you'll only pay once. **[AGENCY] [GROUP]** |
+| 19 | **Internship and work certificates** | Sworn translation, **no apostille needed** (they're private documents). Each must be on company letterhead, signed and stamped, with the dates, your role and your tasks. Put the ones related to your target master's first. **[AGENCY]** |
 | 20 | **Motivation letter**, short ("don't make it long") | [03-carta-de-motivacion.md](03-carta-de-motivacion.md). **[GROUP] [AGENCY]** |
 | 21 | **CV** | **[GROUP] [AGENCY]** |
 | 22 | **Language certificate** | The group "strongly recommends" one. For a Spanish course, include proof of your **current** Spanish level. It supports the plan to reach B2. **[GROUP]** |
