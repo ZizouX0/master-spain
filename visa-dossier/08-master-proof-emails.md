@@ -14,6 +14,16 @@ Replace every `[bracket]`. Attach to each email: your diploma, all transcripts a
 | 6 | Universidad Europea admission letter (optional, private) | Email 5, then test + interview | All year |
 | 7 | SIELE/DELE registration | Book the exam; print the confirmation | October–November |
 
+## Who to write to (checked on the official pages, 26 Sep 2026)
+
+| # | Programme | Person | Email |
+|---|---|---|---|
+| 1 | UPV – MU Ingeniería y Tecnología de Sistemas Software | Prof. Silvia Mara Abrahao Gonzales (dirección académica) | mitssmaster@posgrado.upv.es |
+| 2 | UPV – MU Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones | Prof. Eva Vallada Regalado (dirección académica) | evallada@eio.upv.es |
+| 3 | UCM – MU Ingeniería Informática (pre-admission letter) | Prof. Narciso Martí Oliet (Vicedecano de Posgrado) | vdpfdi@ucm.es |
+| 4 | UAM – MU Ciencia de Datos (Early Admission) | Programme coordination (no name published) | master.ciencia.datos@uam.es · cc posgrado.oficial@uam.es |
+| 5 | Universidad Europea – MU Análisis de Datos Masivos (Big Data) | Admissions (director: Prof. Óscar Marbán) | postgrado@universidadeuropea.es |
+
 ---
 
 ## Email 1 — UPV, Sistemas Software
@@ -21,11 +31,11 @@ Replace every `[bracket]`. Attach to each email: your diploma, all transcripts a
 
 **Asunto:** Consulta de admisión – MU en Ingeniería y Tecnología de Sistemas Software – curso 2027-2028
 
-Estimada coordinación del Máster:
+Estimada profesora Abrahao:
 
 Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería y Tecnología de Sistemas Software en el curso 2027-2028.
 
-Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Les agradecería que me confirmaran:
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
 
 1. si mi titulación permite el acceso al máster;
 2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
