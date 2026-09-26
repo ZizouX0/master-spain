@@ -76,7 +76,7 @@ children.push(
   bullet("Every fact must be true and backed by a document in your file. The consulate checks bank statements, school letters and employer letters, and a false statement leads to refusal (art. 54.8.b)."),
   bullet("Each Spanish text is followed by an **English translation page**. That page is for your understanding only: don’t print or submit it."),
   bullet("Print each letter on its own page. Before printing, delete the section title and the blue guidance box above it. Sign in blue ink and date it."),
-  bullet("Part 1 explains the file and the review results. Part 2 lists what only you can get. Parts 3 to 11 are what you prepare and submit."),
+  bullet("Part 1 explains the file and the review results. Part 2 lists what only you can get. Part 3 is your week-by-week timeline. Parts 4 to 12 are what you prepare and submit."),
   pageBreak(),
 );
 
@@ -85,6 +85,7 @@ children.push(
   h1("Contents"),
   num("toc", "Analysis and mock consular review results"),
   num("toc", "Your to-do list: what only you can get"),
+  num("toc", "Timeline: week by week from 26 September to your December appointment"),
   num("toc", "Final checklist, in the order BLS wants it"),
   num("toc", "Your stay dates: the 45 extra days, money, insurance and TIE"),
   num("toc", "Motivation letter (carta de motivación, Spanish) + English translation"),
@@ -118,24 +119,24 @@ children.push(
     ["**Recent documents**", "Medical certificate, birth certificate, B3, payslips, attestation de travail and blocking certificate: all less than 3 months old on the day of your appointment."],
     ["**Paid studies**", "Fees paid in full, with a letter from the school confirming it received the money. An invoice alone isn’t enough."],
     ["**Short supporting documents**", "A short motivation letter, a CV and a language certificate."],
-    ["**Interview**", "The group says interviews are rare, but the officer warned that language-course files do get called in. Prepare Part 11."],
+    ["**Interview**", "The group says interviews are rare, but the officer warned that language-course files do get called in. Prepare Part 12."],
   ]),
   blank(),
   h2("1.3 How your case differs from the posts"),
   p("The posts and the agency checklist were written for **university** admissions. You are applying for a **language school**, which the regulation treats as a separate category: “actividad formativa”, art. 52.1.e.2º. Four consequences:"),
-  num("diff", "**The school must be accredited by Instituto Cervantes and the course must be in person.** The school’s letter must say so, with the hours per week in 60-minute hours (Part 9)."),
+  num("diff", "**The school must be accredited by Instituto Cervantes and the course must be in person.** The school’s letter must say so, with the hours per week in 60-minute hours (Part 10)."),
   num("diff", "**The officer will ask: “Is the language course the real purpose?”** The answer is a chain you can prove: certified current level → intensive course → SIELE/DELE → named master’s that requires B2 → September 2027. Proof of the master’s is what turns this chain from a promise into a fact."),
   num("diff", "**The permit lasts one year at most, allows only one extension, and gives no automatic right to work** (art. 55.1, 55.5, 57)."),
   num("diff", "**Switching to the master’s from inside Spain is legally possible** (art. 54.1 ¶2 and 54.3). Once admitted, you file a new higher-education application at the immigration office (oficina de extranjería), or the university files it for you (art. 54.6). Deadline: at least 2 months before your current permit expires **and** at least 2 months before the master’s starts. The alternative is to return to Tunisia and apply at the embassy. Your letter states the in-Spain route and a fallback. **Version 1 of this pack wrongly said the in-Spain switch was impossible.**"),
   h2("1.4 Why files get refused, and how this pack prevents it"),
   table([4200, 5438], ["Reason for refusal", "Prevented by"], [
-    ["Purpose not proven (the officer’s #1 reason)", "Proof of the master’s and a certified Spanish level (Part 2); motivation letter built on them (Part 5)"],
-    ["Missing apostille or translation", "Checklist (Part 3) with a translation and an apostille column for every item"],
-    ["Too little money, or an unexplained deposit", "€700 × months of the whole stay + trip home (Part 4); 6 months of statements; proof of source for any large deposit"],
+    ["Purpose not proven (the officer’s #1 reason)", "Proof of the master’s and a certified Spanish level (Part 2); motivation letter built on them (Part 6)"],
+    ["Missing apostille or translation", "Checklist (Part 4) with a translation and an apostille column for every item"],
+    ["Too little money, or an unexplained deposit", "€700 × months of the whole stay + trip home (Part 5); 6 months of statements; proof of source for any large deposit"],
     ["Insurance not accepted", "Health insurance from an insurer authorised in Spain, with SNS-equivalent cover, no co-payment and no waiting period, covering the whole stay"],
-    ["Medical certificate invalid", "Exact wording (Part 8), legalised by the regional health directorate, less than 3 months old"],
-    ["School not eligible", "Visa letter with Cervantes accreditation, in-person attendance and hours per week (Part 9)"],
-    ["Inconsistent dates", "One rule: course dates on the school letter; stay dates everywhere else (Part 4)"],
+    ["Medical certificate invalid", "Exact wording (Part 9), legalised by the regional health directorate, less than 3 months old"],
+    ["School not eligible", "Visa letter with Cervantes accreditation, in-person attendance and hours per week (Part 10)"],
+    ["Inconsistent dates", "One rule: course dates on the school letter; stay dates everywhere else (Part 5)"],
     ["Late application", "Submit at least 2 months before the course starts"],
   ]),
   blank(),
@@ -145,7 +146,7 @@ children.push(
   bullet("**Accommodation.** Not required by law. The agency asks for 3 months; two reviewers found 1 month thin (“where will you live afterwards?”). **Book at least 3 months**, or prepay the whole stay, which also reduces the money you must block. A cheaper city (Salamanca, Alicante) helps."),
   bullet("**Flight.** Not required, but your money must cover the trip home. **Add a return reservation** (not a purchased ticket) that matches your stay dates."),
   bullet("**Bank statements.** The agency says no translation; the official rule says every document not in Spanish must be translated. **Translate them.**"),
-  bullet("**Appointment.** Confirmed on the embassy’s contact page: national-visa appointments are requested at **emb.tunez.cit@maec.es** (Part 10)."),
+  bullet("**Appointment.** Confirmed on the embassy’s contact page: national-visa appointments are requested at **emb.tunez.cit@maec.es** (Part 11)."),
   pageBreak(),
 );
 
@@ -157,36 +158,97 @@ children.push(
     ["1", "**Proof of the master’s**: a pre-registration receipt (justificante de preinscripción), a conditional admission (“admisión condicionada a acreditar B2”), or at least an email from the programme coordinator confirming you’re eligible and that B2 is required. Apply in the first admission rounds (often November to February).", "The officer’s #1 reason for refusal. Printed web pages alone don’t prove anything."],
     ["2", "**A certificate of your current Spanish level**: Instituto Cervantes de Túnez, a SIELE result, or Sampere’s graded placement test.", "A self-declared level counts as none. Rough guide from the officer: certified A2 fits 5–6 months; B1 fits 3–4 months; A0/A1 or an existing B2 is a red flag."],
     ["3", "**Choose the campus**: Madrid, Salamanca or Alicante. Ideally the city of your target university, or a cheaper one.", "An undecided campus makes the plan look unfinished."],
-    ["4", "**The school’s visa letter** with hours per week in **60-minute hours** (20 or more), in person, full-time, Cervantes-accredited, paid in full (use Part 9).", "“20 lessons” of 50 minutes is only about 17 hours, which the officer would question."],
+    ["4", "**The school’s visa letter** with hours per week in **60-minute hours** (20 or more), in person, full-time, Cervantes-accredited, paid in full (use Part 10).", "“20 lessons” of 50 minutes is only about 17 hours, which the officer would question."],
     ["5", "**Course dates**: plan the course so your master’s application fits. In-Spain route: file at least 2 months before your permit ends. Return route: finish by mid-May so you can apply in Tunis in time.", "A July return with new medical, B3, payslips and blocking during peak season is risky."],
     ["6", "**Language exam**: register for the **SIELE** (results within about 3 weeks) or an early DELE session.", "DELE results take about 3 months, too late for most admissions. Registration also qualifies you for the one allowed extension (art. 55.5)."],
     ["7", "**Money proof**: the parent’s income documents, 6 months of stamped statements, proof of source for any large deposit (sale deed, loan contract), the bank’s transfer authorisation, and ideally evidence the family can also pay for the master’s year.", "The officer checks the sponsor’s capacity, not just the balance."],
-    ["8", "**An answer to “Why not the Instituto Cervantes in Tunis?”**, based on true facts (hours per week, immersion, a certificate of hours already done in Tunis if you have one).", "The officer will ask it. The letter (Part 5) and interview (Part 11) use your answer."],
+    ["8", "**An answer to “Why not the Instituto Cervantes in Tunis?”**, based on true facts (hours per week, immersion, a certificate of hours already done in Tunis if you have one).", "The officer will ask it. The letter (Part 6) and interview (Part 12) use your answer."],
   ]),
   pageBreak(),
 );
 
-// Part 3 — Checklist
+// Part 3 — Timeline
+const TW = [500, 1500, 4300, 3338];
+const TH = ["#", "When", "Document / task", "Notes"];
+children.push(
+  h1("3. Timeline: 26 September → appointment in early December"),
+  p("Every document in the order you should start it. Dates are targets: ask your translator and bank how long they need, and keep a few days of margin."),
+  h3("Three rules behind this order"),
+  num("tl", "**The course must start at least 2 months after your appointment.** With an appointment in early December, choose a course start around **8 February 2027**, which leaves about a week of buffer. You arrive around 8 January (Part 5)."),
+  num("tl", "**Some documents must be less than 3 months old on appointment day**: B3, medical certificate, birth certificate, blocking certificate, attestation de travail and payslips. Get them in late October or November, so they stay valid if the appointment slips."),
+  num("tl", "**Apostille first, translation second.** Send documents to your sworn translator in **3 batches** instead of one at a time."),
+  h2("Phase 1 — 28 Sep to 4 Oct: the things that unlock everything else"),
+  table(TW, TH, [
+    ["1", "This week", "**Check your passport**: issued less than 10 years ago, valid until at least early 2028. If not, renew it now.", "Every other document carries your passport number."],
+    ["2", "This week", "**Choose the Sampere campus and course dates** (start around 8 Feb), register, and get their invoice or provisional admission.", "Your bank needs it to open the student file and pay the school."],
+    ["3", "This week", "**Email the master’s coordinators**; ask when pre-registration opens.", "Proof of the master’s is the officer’s #1 concern, and universities reply slowly."],
+    ["4", "This week", "**Ask your companies for your internship certificates.**", "Companies can take weeks."],
+    ["5", "This week", "**Book a Spanish level test**: Sampere placement test and/or a SIELE session in late October.", "SIELE results take up to about 3 weeks."],
+  ], { center: [0] }),
+  h2("Phase 2 — 5 to 25 Oct: the bank, and documents that don’t expire"),
+  table(TW, TH, [
+    ["6", "5–11 Oct", "**Attestation de non-boursier**", "The bank will probably ask for it."],
+    ["7", "5–18 Oct", "**Open the student file (dossier scolaire) at the bank**, then **pay Sampere by SWIFT**.", "Critical path: all the money documents depend on it."],
+    ["8", "After payment", "**Sampere visa letter + payment confirmation**", "Send the Part 10 email as soon as the payment arrives."],
+    ["9", "5–18 Oct", "**Bac + university diplomas + all transcripts**: apostille → **translation batch 1**", "Don’t expire; reused for the master’s."],
+    ["10", "5–18 Oct", "**Your CIN and your parent’s CIN** → translation batch 1", ""],
+    ["11", "When received", "**Internship certificates** → translation batch 1", "No apostille needed."],
+    ["12", "12–18 Oct", "**Request the B3 online**", "Can take more than 2 weeks. When it arrives: apostille → batch 2."],
+    ["13", "Late Oct", "**Take the SIELE / placement test**", "Results by mid-November."],
+    ["14", "As soon as open", "**Master’s pre-registration**, or at least the **coordinator’s email**", "Keep pushing until you have it."],
+  ], { center: [0] }),
+  h2("Phase 3 — 26 Oct to 15 Nov: the documents that must be recent"),
+  table(TW, TH, [
+    ["15", "Early Nov", "**Block the money** and get the **attestation de blocage**", "Arrival ~8 Jan → course end + 15 days ≈ 7 months × €700 = **€4,900** + return trip. Apostille → batch 2."],
+    ["16", "Early Nov", "**Parent’s attestation de travail** (issued in November)", "Translation (batch 2)."],
+    ["17", "Early Nov", "**Your birth certificate** (extrait de naissance, in French)", "Apostille → batch 2."],
+    ["18", "Early Nov", "**Medical certificate** (Part 9)", "Legalisation at the Direction Régionale de la Santé → apostille → batch 2. Allow 1–2 weeks."],
+    ["19", "Early Nov", "**Accommodation**: at least 3 months (or the whole stay), paid", "Starts on your arrival date."],
+    ["20", "Early–mid Nov", "**Health insurance** from an insurer authorised in Spain", "Arrival → course end + 15 days; SNS-equivalent cover."],
+    ["21", "Mid Nov", "**Parent’s sponsorship letter** (Part 8), signed at the municipality", "Once dates and amount are final. Apostille → batch 2."],
+    ["22", "10–15 Nov", "**Email emb.tunez.cit@maec.es** for an appointment (Part 11)", "Give the date your file will be complete (~27 Nov)."],
+  ], { center: [0] }),
+  note("Mid-November: send **translation batch 2** — B3, blocking certificate, attestation de travail, birth certificate, medical certificate, sponsorship letter (and the insurance if it isn’t in Spanish)."),
+  h2("Phase 4 — 16 to 29 Nov: the final pieces"),
+  table(TW, TH, [
+    ["23", "16–22 Nov", "**Motivation letter, cover letter, CV** (Parts 6–7)", "Filled with your final facts."],
+    ["24", "When issued", "**Parent’s payslips for Sep, Oct and Nov**", "Get November’s as soon as it’s issued → **translation batch 3**."],
+    ["25", "23–27 Nov", "**Parent’s bank statements, 6 months (June–Nov), stamped**", "Translation batch 3."],
+    ["26", "Last week", "**Return flight reservation** matching your stay dates", "Last, because reservations expire."],
+    ["27", "Last week", "**2 photos**, 3.5 × 4.5 cm, white background", "Plus a spare."],
+    ["28", "Last", "**Visa application form**, signed in blue ink", "Needs the insurance number and all final dates."],
+    ["29", "Last", "**Copies and file order**: original → copy → translation → copy, in BLS order; final check (Part 12)", ""],
+  ], { center: [0] }),
+  h2("Phase 5 — early December: the appointment"),
+  table(TW, TH, [
+    ["30", "Appointment day", "**Cash for the fee** (≈ 372 TND total incl. BLS — check) + the whole file + a spare photo", "After the visa: check the sticker dates. Within 1 month of arriving in Spain: apply for the TIE."],
+  ], { center: [0] }),
+  blank(),
+  note("If something runs late — the school payment and bank file (6–8, 15), the B3 (12) or the master’s proof (14) — ask Sampere to move your start date later rather than submitting an incomplete file."),
+  pageBreak(),
+);
+
+// Part 4 — Checklist
 const Y = "Oui", N = "Non", R = "Conseillé", S = "Si pas en ES";
 children.push(
-  h1("3. Final checklist (in BLS order)"),
+  h1("4. Final checklist (in BLS order)"),
   p("**Trad.** = sworn Spanish translation (it must include the apostille). **Apost.** = apostille from an authorised notary, on the original first. “Conseillé” = recommended. “Si pas en ES” = translate only if not already in Spanish. For each item bring: original → copy → translation → copy of the translation."),
   table([500, 5738, 1000, 1000, 700, 700], ["#", "Document", "Trad.", "Apost.", "Prêt", "Copie"], [
-    ["1", "Formulaire de visa national, tapé, signé à l’encre bleue et daté ; dates d’entrée et de séjour = vos dates de séjour (Partie 4)", N, N, "☐", "☐"],
+    ["1", "Formulaire de visa national, tapé, signé à l’encre bleue et daté ; dates d’entrée et de séjour = vos dates de séjour (Partie 5)", N, N, "☐", "☐"],
     ["2", "Photo 3,5 × 4,5 cm, fond blanc, moins de 6 mois, collée sur le formulaire (+ une photo de réserve)", N, N, "☐", "☐"],
     ["3", "Passeport délivré il y a **moins de 10 ans**, valide au moins 1 an, 2 pages vierges + copie des 5 premières pages + anciens passeports et visas", N, N, "☐", "☐"],
     ["4", "Extrait de naissance en français, de moins de 3 mois", Y, Y, "☐", "☐"],
     ["5", "CIN (preuve de résidence en Tunisie)", Y, N, "☐", "☐"],
-    ["6", "Lettre d’admission Estudio Sampere : présentiel, temps plein, heures de 60 min par semaine (≥ 20), accréditation Instituto Cervantes (Partie 9) + page imprimée de l’accréditation", N, N, "☐", "☐"],
+    ["6", "Lettre d’admission Estudio Sampere : présentiel, temps plein, heures de 60 min par semaine (≥ 20), accréditation Instituto Cervantes (Partie 10) + page imprimée de l’accréditation", N, N, "☐", "☐"],
     ["7", "Preuve de paiement intégral : SWIFT + lettre de l’école confirmant la réception", S, N, "☐", "☐"],
     ["8", "Attestation de non-boursier", Y, R, "☐", "☐"],
     ["9", "Dossier scolaire bancaire avec autorisation de transfert + attestation de blocage irrévocable : ≥ 700 € × mois de séjour (arrivée → fin du cours + 15 j) + retour + frais non payés ; moins de 3 mois", Y, Y, "☐", "☐"],
-    ["10", "Attestation de prise en charge du/des parent(s), signature légalisée à la municipalité (Partie 7)", Y, Y, "☐", "☐"],
+    ["10", "Attestation de prise en charge du/des parent(s), signature légalisée à la municipalité (Partie 8)", Y, Y, "☐", "☐"],
     ["11", "CIN ou passeport du parent (copie)", Y, N, "☐", "☐"],
     ["12", "Revenus du parent (moins de 3 mois) : salarié = 3 fiches de paie + attestation de travail ; commerçant = RNE + patente + déclaration d’ouverture ; retraité = pension + historique CNRPS/CNSS", Y, R, "☐", "☐"],
     ["13", "Relevés bancaires du parent, 6 mois, cachetés par la banque (+ justificatif de l’origine de tout gros dépôt)", Y, N, "☐", "☐"],
     ["14", "Assurance santé : assureur autorisé en Espagne, couverture équivalente au SNS (cartera común básica), sans copago ni carencia, de l’arrivée à la fin du cours + 15 j", S, N, "☐", "☐"],
-    ["15", "Certificat médical de moins de 3 mois, légalisé par la Direction Régionale de la Santé (Partie 8)", Y, Y, "☐", "☐"],
+    ["15", "Certificat médical de moins de 3 mois, légalisé par la Direction Régionale de la Santé (Partie 9)", Y, Y, "☐", "☐"],
     ["16", "Bulletin n°3 (B3) : **obligatoire** (séjour > 6 mois) ; un pour chaque pays de résidence des 5 dernières années ; moins de 3 mois ; demande en ligne à lancer tôt", Y, Y, "☐", "☐"],
     ["17", "Hébergement (recommandé) : au moins 3 mois, ou tout le séjour payé d’avance (réduit le montant à bloquer) + preuve de paiement ; entrée = date d’arrivée", S, N, "☐", "☐"],
     ["18", "Réservation de vol aller-retour (recommandé ; ne pas acheter avant le visa) aux dates du séjour", N, N, "☐", "☐"],
@@ -194,38 +256,38 @@ children.push(
     ["20", "Attestations de stage / de travail : papier à en-tête, signées et cachetées, avec dates et missions", Y, N, "☐", "☐"],
     ["21", "**Preuve du master** : préinscription, admission conditionnelle ou e-mail du coordinateur + pages du programme (niveau exigé, calendrier)", S, N, "☐", "☐"],
     ["22", "**Certificat du niveau actuel d’espagnol** (Cervantes Tunis, SIELE ou test de placement Sampere) + inscription SIELE/DELE", S, N, "☐", "☐"],
-    ["23", "Lettre de motivation en espagnol (Partie 5)", N, N, "☐", "☐"],
+    ["23", "Lettre de motivation en espagnol (Partie 6)", N, N, "☐", "☐"],
     ["24", "CV en espagnol (format Europass)", N, N, "☐", "☐"],
     ["25", "Frais : ≈ 372 TND au total, frais BLS inclus, en espèces (à vérifier sur la grille du trimestre en cours)", "—", "—", "☐", "—"],
   ], { center: [0, 2, 3, 4, 5] }),
   blank(),
-  note("Timing: submit at least 2 months before the course starts (course on 1 February 2027 → by 1 December 2026). Start with the B3, the bank file and the master’s pre-registration: they take the longest. Request the appointment early (Part 10)."),
+  note("Timing: submit at least 2 months before the course starts (course on 8 February 2027 → by 8 December 2026). Follow the order in Part 3."),
   pageBreak(),
 );
 
-// Part 4 — Stay dates
+// Part 5 — Stay dates
 children.push(
-  h1("4. Your stay dates: the 45 extra days"),
+  h1("5. Your stay dates: the 45 extra days"),
   p("By law, your permit **starts 1 month before the course** and **ends 15 days after it** (art. 55.2): “La vigencia de la autorización deberá comenzar con una antelación de un mes con respecto al comienzo de la actividad […]. La vigencia se extenderá quince días más allá de la finalización de la actividad.” You don’t need a special form, but you should request it clearly so the visa is issued with the right dates."),
-  h2("4.1 How to ask for them"),
+  h2("5.1 How to ask for them"),
   num("idx4", "**Apply at least 2 months before the course starts.** If you apply later, the permit may start on the day of approval instead of 1 month before."),
   num("idx4", "**On the visa form**, enter your intended arrival date (up to 1 month before the course) and your intended length of stay (until the course end + 15 days)."),
-  num("idx4", "**In the cover letter**, one sentence requests it, with a reason (already written in Part 6): “Les agradecería que la vigencia del visado abarcara del [fecha de llegada] al [fecha de fin del curso + 15 días]…”"),
+  num("idx4", "**In the cover letter**, one sentence requests it, with a reason (already written in Part 7): “Les agradecería que la vigencia del visado abarcara del [fecha de llegada] al [fecha de fin del curso + 15 días]…”"),
   num("idx4", "**Make every other document cover the same period**: insurance, blocked money, accommodation (from arrival), flight reservation, sponsorship letter."),
   num("idx4", "**When you collect the passport, check the visa sticker** (“desde / hasta”). If the dates are shorter, say so at the counter immediately."),
-  h2("4.2 The one date rule"),
+  h2("5.2 The one date rule"),
   table([3200, 6438], ["Which dates", "Where they go"], [
     ["**Course dates** (first class → last class)", "The school’s letter, the payment confirmation, the motivation letter"],
     ["**Stay dates** (arrival → course end + 15 days)", "The visa form, insurance, blocked-money calculation, accommodation, flight reservation, sponsorship letter, cover letter request"],
   ]),
   blank(),
-  h2("4.3 Worked example"),
+  h2("5.3 Worked example"),
   table([3600, 6038], ["Item", "Example (change it to your real dates)"], [
-    ["Course", "1 February – 25 June 2027"],
-    ["Stay (permit)", "1 January – 10 July 2027 (about 6.3 months)"],
+    ["Course", "8 February – 25 June 2027"],
+    ["Stay (permit)", "8 January – 10 July 2027 (about 6 months)"],
     ["Blocked money", "7 months × €700 = **€4,900**, plus the return trip and any unpaid fees"],
-    ["Insurance", "1 January – 10 July 2027"],
-    ["Submit the visa file", "By **1 December 2026** at the latest"],
+    ["Insurance", "8 January – 10 July 2027"],
+    ["Submit the visa file", "By **8 December 2026** at the latest (you plan early December)"],
     ["TIE (foreigner ID card)", "Required, because the stay is over 6 months: apply at the police within 1 month of arriving (art. 54.9)"],
     ["Master’s, in-Spain route", "File at the oficina de extranjería by **10 May 2027** (2 months before the permit ends), with admission and fees paid"],
     ["Master’s, return route", "Back in Tunis and file at the embassy at least 2 months before September. A course ending by mid-May makes this realistic."],
@@ -255,9 +317,9 @@ const letterHeadEn = (extra) => [
 ];
 const J = AlignmentType.JUSTIFIED;
 
-// Part 5 — Carta de motivación
+// Part 6 — Carta de motivación
 children.push(
-  h1("5. Carta de motivación"),
+  h1("6. Carta de motivación"),
   note("About 280 words. Replace every blank with a true fact; delete any sentence you can’t prove. If your Spanish is below B1, be ready to discuss the letter in French at an interview, or submit a French version with a sworn translation."),
   ...letterHead([p("**Asunto: Carta de motivación – Visado nacional de estudios (curso intensivo de español)**", { after: 160 })]),
   p("Señoras y señores:"),
@@ -278,7 +340,7 @@ children.push(
   p("[Firma]", { after: 0 }),
   p("[Nombre y apellidos]"),
   pageBreak(),
-  h2("5b. Motivation letter: English translation"),
+  h2("6b. Motivation letter: English translation"),
   trNote(),
   ...letterHeadEn([p("**Subject: Motivation letter – National study visa (intensive Spanish course)**", { after: 160 })]),
   p("Dear Sir or Madam,"),
@@ -301,7 +363,7 @@ children.push(
   pageBreak(),
 );
 
-// Part 6 — Carta de presentación
+// Part 7 — Carta de presentación
 const idxES_req = [
   "Formulario de solicitud de visado nacional, cumplimentado y firmado, con fotografía.",
   "Pasaporte, copia de las cinco primeras páginas, y pasaportes y visados anteriores.",
@@ -351,8 +413,8 @@ const idxEN_comp = [
   "Curriculum vitae.",
 ];
 children.push(
-  h1("6. Carta de presentación e índice"),
-  note("Put this letter at the front of the file and arrange the documents in the same order as the index. The last paragraph requests the 45 extra days (Part 4)."),
+  h1("7. Carta de presentación e índice"),
+  note("Put this letter at the front of the file and arrange the documents in the same order as the index. The last paragraph requests the 45 extra days (Part 5)."),
   ...letterHead([p("**Asunto: Solicitud de visado nacional de estudios – Curso intensivo de lengua española en Estudio Sampere ([ciudad]), del [fecha] al [fecha]**", { after: 160 })]),
   p("Señoras y señores:"),
   p("Presento mi solicitud de visado nacional de estudios para seguir un curso intensivo y presencial de lengua española en Estudio Sampere ([ciudad]), centro acreditado por el Instituto Cervantes, del [fecha de inicio] al [fecha de fin]. Adjunto la documentación, ordenada según el siguiente índice:", { align: J }),
@@ -366,7 +428,7 @@ children.push(
   p("[Firma]", { after: 0 }),
   p("[Nombre y apellidos]"),
   pageBreak(),
-  h2("6b. Cover letter: English translation"),
+  h2("7b. Cover letter: English translation"),
   trNote(),
   ...letterHeadEn([p("**Subject: National study visa application – Intensive Spanish language course at Estudio Sampere ([city]), from [date] to [date]**", { after: 160 })]),
   p("Dear Sir or Madam,"),
@@ -383,10 +445,10 @@ children.push(
   pageBreak(),
 );
 
-// Part 7 — Prise en charge
+// Part 8 — Prise en charge
 children.push(
-  h1("7. Attestation de prise en charge"),
-  note("Follows the official BLS Tunisia model, plus two sentences that make the file easier to read. Your parent signs in front of the municipality (légalisation de signature); then apostille by a notary and sworn Spanish translation. The dates are your **stay dates** (Part 4)."),
+  h1("8. Attestation de prise en charge"),
+  note("Follows the official BLS Tunisia model, plus two sentences that make the file easier to read. Your parent signs in front of the municipality (légalisation de signature); then apostille by a notary and sworn Spanish translation. The dates are your **stay dates** (Part 5)."),
   new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 240, after: 360 }, children: [new TextRun({ text: "ATTESTATION DE PRISE EN CHARGE", bold: true, size: 30, underline: {} })] }),
   p("Je soussigné(e) [Nom et prénom du parent],", { after: 160 }),
   p("en qualité de [père / mère],", { after: 160 }),
@@ -403,9 +465,9 @@ children.push(
   pageBreak(),
 );
 
-// Part 8 — Medical certificate
+// Part 9 — Medical certificate
 children.push(
-  h1("8. Certificat médical: text to give your doctor"),
+  h1("9. Certificat médical: text to give your doctor"),
   note("Issued less than 3 months before your appointment. From a private doctor it must be legalised by the Direction Régionale de la Santé of the doctor’s region (or get it from a public health centre). Then apostille and sworn Spanish translation. If BLS or your translator gives you their own model, use theirs."),
   new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 240, after: 360 }, children: [new TextRun({ text: "CERTIFICAT MÉDICAL", bold: true, size: 30 })] }),
   p("Je soussigné(e), Docteur [Nom du médecin], [spécialité], exerçant à [adresse du cabinet],", { align: J, after: 200 }),
@@ -417,7 +479,7 @@ children.push(
   pageBreak(),
 );
 
-// Part 9 — Email to Sampere
+// Part 10 — Email to Sampere
 const sampereES = [
   "Mi nombre completo, fecha de nacimiento y número de pasaporte ([número]).",
   "Las fechas exactas de inicio y fin del curso.",
@@ -437,7 +499,7 @@ const sampereEN = [
   "If applicable, that the programme includes preparation for the SIELE or DELE exams.",
 ];
 children.push(
-  h1("9. Email to Estudio Sampere: visa letter"),
+  h1("10. Email to Estudio Sampere: visa letter"),
   note("Send this after you have paid. The school’s letter proves you fit the legal category, so every point matters, especially the hours in 60-minute hours."),
   p("**Asunto:** Carta de admisión para visado de estudios – [Nombre y apellidos] – Curso intensivo [fecha de inicio]"),
   p("Estimado equipo de Estudio Sampere:"),
@@ -447,7 +509,7 @@ children.push(
   p("Un cordial saludo,", { after: 120 }),
   p("[Nombre y apellidos] · [teléfono] · [correo electrónico]"),
   pageBreak(),
-  h2("9b. Email to Estudio Sampere: English translation"),
+  h2("10b. Email to Estudio Sampere: English translation"),
   trNote(),
   p("**Subject:** Admission letter for a study visa – [Full name] – Intensive course [start date]"),
   p("Dear Estudio Sampere team,"),
@@ -459,9 +521,9 @@ children.push(
   pageBreak(),
 );
 
-// Part 10 — Appointment email
+// Part 11 — Appointment email
 children.push(
-  h1("10. Email requesting an appointment"),
+  h1("11. Email requesting an appointment"),
   note("Send to **emb.tunez.cit@maec.es**, the address the embassy’s contact page lists for national-visa appointment requests. Send it when your file is about 15 days from ready, and state the date it will be complete."),
   p("**À :** emb.tunez.cit@maec.es"),
   p("**Objet :** Demande de rendez-vous – Visa national d’études – [Nom et prénom] – Passeport n° [numéro]"),
@@ -475,9 +537,9 @@ children.push(
   pageBreak(),
 );
 
-// Part 11 — Interview + final check
+// Part 12 — Interview + final check
 children.push(
-  h1("11. Interview preparation and final check"),
+  h1("12. Interview preparation and final check"),
   p("Language-course files are more likely to be called in. Your answers must match your documents exactly. Keep each answer to 2 or 3 sentences, and practise questions 1, 2, 12 and 13 in Spanish."),
   table([4000, 5638], ["Likely question", "What a strong answer contains"], [
     ["1. Pourquoi l’Espagne ?", "The named master’s, and a concrete reason for that field and that university."],
@@ -535,7 +597,7 @@ const doc = new Document({
       { reference: "bullets", levels: [
         { level: 0, format: LevelFormat.BULLET, text: "•", alignment: AlignmentType.LEFT, style: { paragraph: { indent: { left: 540, hanging: 270 } } } },
         { level: 1, format: LevelFormat.BULLET, text: "–", alignment: AlignmentType.LEFT, style: { paragraph: { indent: { left: 1080, hanging: 270 } } } } ] },
-      ...["toc", "diff", "idx", "idxen", "idx4"].map(ref => ({ reference: ref, levels: [
+      ...["toc", "diff", "idx", "idxen", "idx4", "tl"].map(ref => ({ reference: ref, levels: [
         { level: 0, format: LevelFormat.DECIMAL, text: "%1.", alignment: AlignmentType.LEFT, style: { paragraph: { indent: { left: 540, hanging: 360 } } } } ] })),
     ],
   },
