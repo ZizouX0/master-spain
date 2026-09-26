@@ -53,8 +53,8 @@ Where they disagree, you'll find a ⚠️ and a recommendation.
 
 | # | Document | Details |
 |---|---|---|
-| 16 | **Accommodation**: a certificate or booking, **at least the first 3 months**, with **proof of payment** | The check-in date must match the flight date. **[AGENCY] [GROUP]** |
-| 17 | **Return flight reservation** | A reservation is enough. **[AGENCY] [GROUP]** |
+| 16 | **Accommodation** (optional): a booking with **proof of payment**. **One month is enough.** | Not required by the embassy. The agency asks for 3 months; the group only mentions "proof of accommodation and payment". The check-in date must match your arrival date. **[AGENCY] [GROUP]** ⚠️ See below. |
+| 17 | **Flight reservation** (optional) | Not required by the embassy; the group lists it as optional. A simple reservation is enough. **Don't buy the ticket before you have the visa.** **[AGENCY] [GROUP]** |
 
 ## 6. Your background (strengthens the file)
 
@@ -87,6 +87,12 @@ Where they disagree, you'll find a ⚠️ and a recommendation.
 - **[AGENCY]** **€700 a month**, blocked irrevocably.
 - **Recommendation:** block **at least €700 a month**. That meets both, and it gives you a margin.
 
+### Flight and accommodation
+- **[OFFICIAL]** Neither is on the embassy's list for a study visa. Accommodation only matters for money: if it's **prepaid for the whole stay**, the amount you have to show is reduced.
+- **[AGENCY]** A return flight reservation, plus accommodation for **3 months** with proof of payment.
+- **[GROUP]** "Proof of accommodation and payment" (no length given). The flight ticket is listed among the **non-mandatory** documents that strengthen the file.
+- **Recommendation:** leave out the flight, or add a simple reservation (not a paid ticket). For accommodation, **1 month paid** is enough. It shows the officer where you'll live when you arrive, and your dates stay consistent.
+
 ### Getting an appointment
 - **[OFFICIAL]** The page describes appointments for **Schengen** visas: on the BLS website (the first and third Sunday of each month at 10:00), or in person at BLS every Friday from 12:00, with 15 slots a week for purposes other than tourism.
 - **[GROUP]** For a study visa, applicants **email the embassy** once their file is about 15 days from ready. Subject: "Rendez-vous visa d'étude". The email gives your name, passport number and study plan, with **your passport and your admission letter attached as PDFs**.
@@ -99,5 +105,5 @@ Where they disagree, you'll find a ⚠️ and a recommendation.
 - A medical certificate without the exact sentence, or not legalised by the regional health directorate.
 - Travel insurance that isn't accepted (see above).
 - A school that isn't Cervantes-accredited, or a part-time or online course.
-- Dates that don't match across the form, school letter, insurance, accommodation, flight and sponsorship letter.
+- Dates that don't match across the form, school letter, insurance, sponsorship letter, and the accommodation or flight reservations if you include them.
 - A file submitted less than 2 months before the course starts.

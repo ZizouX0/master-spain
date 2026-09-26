@@ -29,16 +29,16 @@ Presento mi solicitud de visado nacional de estudios para realizar un curso inte
 9. Seguro de enfermedad [aseguradora], póliza n.º [número], válido del [fecha] al [fecha].
 10. Certificado médico (legalizado por la Dirección Regional de Salud, apostillado y traducido).
 11. Certificado de antecedentes penales (Bulletin n.º 3), apostillado y traducido.
-12. Justificante de alojamiento y de su pago.
-13. Reserva de billete de avión de ida y vuelta.
-14. Justificante del abono de la tasa de visado.
+12. Justificante del abono de la tasa de visado.
 
 **Documentación complementaria**
-15. Carta de motivación.
-16. Títulos y expedientes académicos (bachillerato y universidad), apostillados y traducidos.
-17. Certificados de prácticas y de trabajo, traducidos.
-18. Justificante del nivel actual de español.
-19. Información de los másteres objetivo (requisito de nivel de español y calendario de admisión).
+13. Carta de motivación.
+14. Títulos y expedientes académicos (bachillerato y universidad), apostillados y traducidos.
+15. Certificados de prácticas y de trabajo, traducidos.
+16. Justificante del nivel actual de español.
+17. Información de los másteres objetivo (requisito de nivel de español y calendario de admisión).
+18. Reserva de alojamiento [para el primer mes] y justificante de pago.
+19. Reserva de vuelo.
 20. Currículum vítae.
 
 Quedo a su disposición para cualquier aclaración, documentación adicional o entrevista.
