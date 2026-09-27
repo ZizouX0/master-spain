@@ -26,6 +26,8 @@ UPV programmes 1 and 2 show **"Requisito lingüístico: No"**, while programme 6
 | 4 | UAM – MU Ciencia de Datos (Early Admission) | Programme coordination (no name published) | master.ciencia.datos@uam.es · cc posgrado.oficial@uam.es |
 | 5 | Universidad Europea – MU Análisis de Datos Masivos (Big Data) | Admissions (director: Prof. Óscar Marbán) | postgrado@universidadeuropea.es |
 | 6 | **UPV – MU Ingeniería de Computadores y Redes (B2 required, Fase 0) — recommended UPV option** | Prof. Juan Carlos Ruiz García (dirección académica) | mic@posgrado.upv.es |
+| 7 | UNIE (private, Madrid) – MU Ciberseguridad (in person, Spanish). Its rules allow conditional admission without B2 | Postgraduate admissions | admisiones.postgrado@universidadunie.com · +34 919 032 201 |
+| 8 | Universidad Europea (private, Madrid) – MU Ciberseguridad (in person). B2 needed for admission; the visa letter is issued after the deposit and enrolment are paid | Postgraduate admissions | postgrado@universidadeuropea.es |
 
 ---
 
@@ -179,6 +181,60 @@ Un cordial saludo,
 [Nombre y apellidos] · [teléfono] · [correo]
 
 *English: asks whether your degree gives access, the Fase 0 dates for 2027-28, and by when you must prove B2 (DELE or SIELE).*
+
+## Email 7 — UNIE, Ciberseguridad (conditional admission without B2)
+**To:** admisiones.postgrado@universidadunie.com
+
+**Asunto:** Admisión condicionada – Máster Universitario en Ciberseguridad – curso 2027-2028
+
+Estimado equipo de Admisiones de Posgrado:
+
+Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20 ([duración] años, [créditos] créditos). Me interesa cursar el Máster Universitario en Ciberseguridad, en modalidad presencial en el Campus Arapiles, en el curso 2027-2028.
+
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Su Normativa de Admisión y Matriculación de Máster (art. 10.2) indica que los estudiantes de habla no española son admitidos con carácter condicional. Les agradecería que me informaran de lo siguiente:
+
+1. si puedo ser admitido/a con carácter condicional sin tener todavía el certificado B2, y hasta qué fecha debería acreditarlo (DELE, SIELE o su prueba de idioma);
+2. si pueden emitir una carta de admisión, aunque sea condicional, antes del 30 de noviembre de 2026, válida para presentar en la Embajada de España en Túnez, y si la carta menciona la condición del nivel de español;
+3. el importe de la reserva de plaza y el precio total del máster en 2027-2028, y si la reserva se devuelve en caso de denegación del visado, incluido el visado para el curso de español previo;
+4. si mi titulación da acceso directo al máster o requiere complementos formativos;
+5. la fecha de inicio y el horario de las clases en 2027-2028.
+
+Adjunto mi título, mi expediente académico, mi currículum y una carta de motivación.
+
+Muchas gracias por su atención.
+
+Un cordial saludo,
+
+[Nombre y apellidos] · [teléfono] · [correo]
+
+*English: cites UNIE's own rule on conditional admission and asks: can you be admitted now without B2, and by when you must prove it; can they send a (conditional) admission letter for the embassy before 30 November 2026, and does it mention the Spanish condition; the deposit and total price, and whether the deposit is refunded if a visa is refused (including the Spanish-course visa); whether your degree gives direct access; the start date and timetable.*
+
+## Email 8 — Universidad Europea, Ciberseguridad (Madrid)
+**To:** postgrado@universidadeuropea.es
+
+**Asunto:** Admisión 2027-2028 – Máster Universitario en Ciberseguridad (Madrid) – nivel B2 y carta para el visado
+
+Estimado equipo de Admisiones de Posgrado:
+
+Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20 ([duración] años, [créditos] créditos). Me interesa cursar el Máster Universitario en Ciberseguridad en el campus de Madrid, en modalidad presencial, en el curso 2027-2028.
+
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Según su Normativa de Posgrado 2026-2027, el nivel B2 es requisito para la admisión y la matrícula, y la carta de admisión para el visado se emite tras abonar la reserva de plaza y la matrícula. Les agradecería que me confirmaran:
+
+1. si puedo iniciar ahora el proceso de admisión y acreditar el nivel B2 (DELE, SIELE o su prueba de idioma) más adelante, antes del inicio de las clases, y cuál sería la fecha límite;
+2. si pueden emitir, antes del 30 de noviembre de 2026, algún documento de admisión, aunque sea condicional, para presentar en la Embajada de España en Túnez;
+3. los importes de la reserva de plaza, de la matrícula y el precio total del máster en 2027-2028;
+4. si la devolución de la reserva por denegación del visado se aplica también cuando se deniega el visado para el curso de español previo (febrero–junio de 2027);
+5. si mi titulación da acceso al máster.
+
+Adjunto mi título, mi expediente académico y mi currículum.
+
+Muchas gracias por su atención.
+
+Un cordial saludo,
+
+[Nombre y apellidos] · [teléfono] · [correo]
+
+*English: says you know B2 is required and the visa letter comes after paying, then asks: can you start admission now and prove B2 later, by what date; can they issue any (even conditional) admission document before 30 November 2026; the deposit, enrolment and total price; whether the refund for a refused visa also covers a refused Spanish-course visa; whether your degree gives access.*
 
 ---
 
