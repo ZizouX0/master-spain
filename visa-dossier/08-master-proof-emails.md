@@ -1,6 +1,6 @@
 # Proof of the master's: the proofs you can get, and the emails to send
 
-Replace every `[bracket]`. Attach to each email: your diploma, all transcripts and your CV (scans are fine for a first contact). Send from a personal email address that uses your real name.
+Your details are filled in (Mohamed Aziz Dardouri, Ingeniería de Software, MedTech – South Mediterranean University, 5 years, 292.5 credits, GPA 2.7/4). Still to fill: `[año]` (graduation year), `[teléfono]`, `[correo]`, and in Email 4 the Ministry-equivalent grade. Use the exact degree title written on your diploma. Attach to each email: your diploma, all transcripts and your CV (scans are fine for a first contact). Send from a personal email address that uses your real name.
 
 ## The proofs you can have by late November
 
@@ -38,7 +38,7 @@ UPV programmes 1 and 2 show **"Requisito lingüístico: No"**, while programme 6
 
 Estimada profesora Abrahao:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería y Tecnología de Sistemas Software en el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ingeniería y Tecnología de Sistemas Software en el curso 2027-2028.
 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
 
@@ -52,7 +52,7 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: asks whether your degree gives access, whether the programme takes part in Fase 0 for 2027-28 and when, and what Spanish level is recommended.*
 
@@ -63,7 +63,7 @@ Un cordial saludo,
 
 Estimada profesora Vallada:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones en el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones en el curso 2027-2028.
 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
 
@@ -77,7 +77,7 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: same questions as Email 1 (access, Fase 0 dates, Spanish level), addressed to the coordinator, Prof. Vallada.*
 
@@ -88,9 +88,9 @@ Un cordial saludo,
 
 Estimado profesor Martí Oliet:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Deseo solicitar la admisión al Máster Universitario en Ingeniería Informática para el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Deseo solicitar la admisión al Máster Universitario en Ingeniería Informática para el curso 2027-2028.
 
-Como estudiante extranjero/a residente en Túnez, necesito una carta de preadmisión para tramitar mi visado. Les agradecería que me indicaran:
+Como estudiante extranjero residente en Túnez, necesito una carta de preadmisión para tramitar mi visado. Les agradecería que me indicaran:
 
 1. el procedimiento y los documentos necesarios para solicitar la carta de preadmisión;
 2. si debo solicitar previamente la comprobación del nivel de formación de mi título;
@@ -102,7 +102,7 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: asks how to get a pre-admission letter for your visa, whether the degree-level check comes first, and the 2027-28 dates; says you'll have B2 before pre-registration.*
 
@@ -113,7 +113,7 @@ Un cordial saludo,
 
 Estimada coordinación del Máster:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año]. Según la declaración de equivalencia del Ministerio, mi nota media es de [nota equivalente]/10. Me interesa solicitar el Máster Universitario en Ciencia de Datos por la vía de Early Admission para el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año]. Según la declaración de equivalencia del Ministerio, mi nota media es de [nota equivalente]/10. Me interesa solicitar el Máster Universitario en Ciencia de Datos por la vía de Early Admission para el curso 2027-2028.
 
 Les agradecería que me confirmaran:
 
@@ -127,7 +127,7 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: asks which minimum grade applies, whether the B2 certificate can come later, and how to apply through Early Admission.*
 
@@ -138,7 +138,7 @@ Un cordial saludo,
 
 Estimado equipo de Admisiones:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año]. Me interesa el Máster Universitario en Análisis de Datos Masivos (Big Data), en el grupo en español, con inicio en septiembre de 2027.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año]. Me interesa el Máster Universitario en Análisis de Datos Masivos (Big Data), en el grupo en español, con inicio en septiembre de 2027.
 
 Les agradecería que me informaran sobre:
 
@@ -153,7 +153,7 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: asks about the admission process and dates, the Spanish level and whether admission can be conditional on B2, the deposit and whether it's refunded if the visa is refused, and whether they issue a letter usable for the visa.*
 
@@ -164,7 +164,7 @@ Un cordial saludo,
 
 Estimado profesor Ruiz García:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20. Me interesa cursar el Máster Universitario en Ingeniería de Computadores y Redes en el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ingeniería de Computadores y Redes en el curso 2027-2028.
 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2 que exige el máster. Le agradecería que me confirmara:
 
@@ -178,7 +178,7 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: asks whether your degree gives access, the Fase 0 dates for 2027-28, and by when you must prove B2 (DELE or SIELE).*
 
@@ -189,13 +189,13 @@ Un cordial saludo,
 
 Estimado equipo de Admisiones de Posgrado:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20 ([duración] años, [créditos] créditos). Me interesa cursar el Máster Universitario en Ciberseguridad, en modalidad presencial en el Campus Arapiles, en el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ciberseguridad, en modalidad presencial en el Campus Arapiles, en el curso 2027-2028.
 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Su Normativa de Admisión y Matriculación de Máster (art. 10.2) indica que los estudiantes de habla no española son admitidos con carácter condicional. Les agradecería que me informaran de lo siguiente:
 
-1. si puedo ser admitido/a con carácter condicional sin tener todavía el certificado B2, y hasta qué fecha debería acreditarlo (DELE, SIELE o su prueba de idioma);
+1. si puedo ser admitido con carácter condicional sin tener todavía el certificado B2, y hasta qué fecha debería acreditarlo (DELE, SIELE o su prueba de idioma);
 2. si pueden emitir una carta de admisión, aunque sea condicional, antes del 30 de noviembre de 2026, válida para presentar en la Embajada de España en Túnez, y si la carta menciona la condición del nivel de español;
-3. el importe de la reserva de plaza y el precio total del máster en 2027-2028, y si la reserva se devuelve en caso de denegación del visado, incluido el visado para el curso de español previo;
+3. cuánto debo pagar para recibir la carta de admisión condicional (tasa de admisión o reserva de plaza, y su importe), el precio total del máster en 2027-2028, y si la reserva se devuelve en caso de denegación del visado, incluido el visado para el curso de español previo;
 4. si mi titulación da acceso directo al máster o requiere complementos formativos;
 5. la fecha de inicio y el horario de las clases en 2027-2028.
 
@@ -205,9 +205,9 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
-*English: cites UNIE's own rule on conditional admission and asks: can you be admitted now without B2, and by when you must prove it; can they send a (conditional) admission letter for the embassy before 30 November 2026, and does it mention the Spanish condition; the deposit and total price, and whether the deposit is refunded if a visa is refused (including the Spanish-course visa); whether your degree gives direct access; the start date and timetable.*
+*English: cites UNIE's own rule on conditional admission and asks: can you be admitted now without B2, and by when you must prove it; can they send a (conditional) admission letter for the embassy before 30 November 2026, and does it mention the Spanish condition; how much you must pay to receive the conditional admission letter, the total price, and whether the deposit is refunded if a visa is refused (including the Spanish-course visa); whether your degree gives direct access; the start date and timetable.*
 
 ## Email 8 — Universidad Europea, Ciberseguridad (Madrid)
 **To:** postgrado@universidadeuropea.es
@@ -216,13 +216,13 @@ Un cordial saludo,
 
 Estimado equipo de Admisiones de Posgrado:
 
-Me llamo [Nombre y apellidos] y soy [graduado/a] en [titulación] por la Universidad de [nombre] (Túnez), [año], con una nota media de [nota]/20 ([duración] años, [créditos] créditos). Me interesa cursar el Máster Universitario en Ciberseguridad en el campus de Madrid, en modalidad presencial, en el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ciberseguridad en el campus de Madrid, en modalidad presencial, en el curso 2027-2028.
 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Según su Normativa de Posgrado 2026-2027, el nivel B2 es requisito para la admisión y la matrícula, y la carta de admisión para el visado se emite tras abonar la reserva de plaza y la matrícula. Les agradecería que me confirmaran:
 
 1. si puedo iniciar ahora el proceso de admisión y acreditar el nivel B2 (DELE, SIELE o su prueba de idioma) más adelante, antes del inicio de las clases, y cuál sería la fecha límite;
 2. si pueden emitir, antes del 30 de noviembre de 2026, algún documento de admisión, aunque sea condicional, para presentar en la Embajada de España en Túnez;
-3. los importes de la reserva de plaza, de la matrícula y el precio total del máster en 2027-2028;
+3. qué importe exacto debo pagar para recibir la carta de admisión para el visado (reserva de plaza y matrícula) y el precio total del máster en 2027-2028;
 4. si la devolución de la reserva por denegación del visado se aplica también cuando se deniega el visado para el curso de español previo (febrero–junio de 2027);
 5. si mi titulación da acceso al máster.
 
@@ -232,9 +232,9 @@ Muchas gracias por su atención.
 
 Un cordial saludo,
 
-[Nombre y apellidos] · [teléfono] · [correo]
+Mohamed Aziz Dardouri · [teléfono] · [correo]
 
-*English: says you know B2 is required and the visa letter comes after paying, then asks: can you start admission now and prove B2 later, by what date; can they issue any (even conditional) admission document before 30 November 2026; the deposit, enrolment and total price; whether the refund for a refused visa also covers a refused Spanish-course visa; whether your degree gives access.*
+*English: says you know B2 is required and the visa letter comes after paying, then asks: can you start admission now and prove B2 later, by what date; can they issue any (even conditional) admission document before 30 November 2026; exactly how much you must pay to receive the visa admission letter (deposit + enrolment) and the total price; whether the refund for a refused visa also covers a refused Spanish-course visa; whether your degree gives access.*
 
 ---
 
