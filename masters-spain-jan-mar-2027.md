@@ -161,62 +161,166 @@ No school publishes an acceptance rate for these intakes, so the scores are base
 
 ---
 
-## 5. Could NOT check: names
+## 5. Every other university and school we checked
 
-**Public universities**
-- Universitat de Barcelona (UB): website blocked the agents (Cloudflare)
-- Universitat Pompeu Fabra (main campus official masters): website blocked (403)
-- Universitat de Girona (UdG): firewall blocked us. Its 2026-27 calendar says masters of 90+ ECTS with free places *may* admit students from 1 Feb 2027, but no programme was confirmed
-- Universidad Politécnica de Madrid (UPM): runs a February round (apply 16 Nov 2026 – 14 Jan 2027, **€0** to apply, no deposit), but the list of programmes isn't published and results come out 27 Jan, too late for a visa in practice
-- Santiago de Compostela, Vigo, A Coruña, Extremadura, Las Palmas de Gran Canaria, La Laguna: only partially checked (no February round found)
-- Non-official "títulos propios" at all public universities and Erasmus Mundus joint masters were not checked systematically
+The Quick list above has the 31 that fit (English, on campus, Jan–Mar 2027). Below is **everyone else**, with whatever is known about their next intake, applications and letter cost.
 
-**Private universities**
-- Universidad Pontificia de Salamanca, CEU Cardenal Herrera, Deusto: only weak/aggregator evidence (probably no Jan–Mar English intake)
-- Nebrija: its "continuous intake" page could not be read (individual programme pages show only October)
+### 5a. Could not verify (might have a Jan–Mar English master; websites blocked or data missing)
 
-**Schools**
-- IQS: Applied International Development, and Wealth & Financial Management (site down; other IQS masters start Sept/Oct)
-- IAU – International American University Madrid: no intake date published (evening classes; ~€16,000–18,000)
-- BIArch (Barcelona Institute of Architecture): blocked (appears to start in September)
-- Media Business School (Ronda/Madrid): no 2027 dates or fees
-- The Core School (Madrid), Blanquerna-URL, EUNEIZ (Vitoria), CEADE Leonardo (Sevilla): appear Spanish-only, not confirmed programme by programme
+| School | Applications | Cost of acceptance letter | Status / when |
+|---|---|---|---|
+| Universitat de Barcelona (UB, public) | Not readable (Cloudflare block) | Advance payment ("pagament a compte") after acceptance, amount not readable; non-EU tuition ~€82/ECTS (aggregator) | No English Feb master found through other sources |
+| Universitat Pompeu Fabra (UPF main campus, public) | Not readable (403) | Not readable | Single yearly calendar; second-semester entry only "if places remain" |
+| Universitat de Girona (UdG, public) | Not readable (firewall) | Not readable | 90+ ECTS masters with free places *may* admit from 1 Feb 2027; no programme confirmed |
+| Universidad Politécnica de Madrid (UPM, public) | Feb round **16 Nov 2026 – 14 Jan 2027** | **€0** (no fee, no deposit in this round) | List 27 Jan, enrol 1–5 Feb: too late for a visa; programme list not published |
+| Santiago de Compostela (public) | Early call for non-EHEA at start of year; general call June | Not found | No February round found (partial check) |
+| Vigo (public) | Last 2026-27 period 21–23 Sep | Not found | No February round found (partial check) |
+| A Coruña (public) | Early / ordinary / extraordinary periods | Not found | No February round found (partial check) |
+| Extremadura (public) | Early, June, July, Sept phases | Not found | No February round found (calendar PDF blocked) |
+| Las Palmas de Gran Canaria (public) | Ordinary 20 Apr – 30 Jun 2026 | Not found | Extraordinary period unconfirmed |
+| La Laguna (public) | Not found | €10 application fee (deducted from tuition) | No February round found (partial check) |
+| Universidad Pontificia de Salamanca | – | – | Only Spanish masters found (weak evidence) |
+| CEU Cardenal Herrera | – | – | Spanish/bilingual, October (weak evidence) |
+| Deusto | – | – | English masters start Sept 2027 (aggregator only) |
+| Nebrija | Intake page unreadable | – | Programme pages show only October |
+| IQS – Applied International Development; Wealth & Financial Management | Site down | – | Other IQS masters start Sept/Oct |
+| IAU – International American University Madrid | Not published | Not published (~€16,000–18,000 total) | No intake date; evening classes |
+| BIArch – Barcelona Institute of Architecture | Site blocked | – | Appears to start in September |
+| Media Business School (Ronda/Madrid) | Not published | Not published | Only ~3 months residential |
+| The Core School; Blanquerna-URL; EUNEIZ; CEADE Leonardo | – | – | Appear Spanish-only (not confirmed programme by programme) |
 
-Aggregator sites FindAMasters, Mastersportal and Masterstudies partly blocked the agents.
+### 5b. Near misses (just outside Jan–Mar, not really on campus, Spanish-taught, or deadline passed)
+
+| School | Programme / next intake | Applications | Cost of acceptance letter | Why not on the main list |
+|---|---|---|---|---|
+| UNIE Universidad (Madrid) | MBA; Marketing & Sales; Data Science & BI; Project Mgmt; Supply Chain: **April 2027** | Not checked | Not checked | Starts April |
+| EU Business School (Barcelona) | "March" intake: classes 5 April 2027 | Open | €3,200 | Starts April |
+| EAE Business School (Barcelona/Madrid) | April/May 2027 | – | Not published | Starts April/May |
+| Barcelona Technology School | April 2027 and Oct 2027 | – | €2,500 + €125 reservation; refunded 100% tuition / 80% admin if visa refused | Starts April |
+| Euncet (Terrassa) | English groups 6 Apr 2027 | – | – | April, blended |
+| ESDi (Sabadell) | English UX master April 2027 | – | – | April, Fridays only |
+| IE – Business Analytics & Data Science | Full-time 20 Apr 2027 (Feb edition is blended) | Open | – | April / blended |
+| EUHT StPOL (Sant Pol de Mar) | Culinary Arts master: only Sept 2026 English edition published | – | €9,950 total; enrolment fee not published | No Feb 2027 date |
+| Norman Foster Institute (Madrid) | Sustainable Cities, Jan–Dec 2027 | **Closed 1 June 2026** | €1,000 enrolment fee (non-refundable); €52,000 total | Deadline passed |
+| HTL International School | 8 Jan 2027 | Open | €500 enrolment + €5,000 tuition before provisional letter; visa via €3,000 Spanish course | Attendance optional; visa through a language course |
+| LaLiga Business School (Madrid) | Feb 2027 MBA **in Spanish**; English MBA Nov 2026 | – | – | Feb edition is Spanish |
+| UBI Business School (Madrid) | Spring 2027 (visa deadline 15 Nov 2026) | – | – | Taught in Spanish in Madrid |
+| Zaragoza Logistics Center | ZLOGb Jan (blended); ZLOG 31 Aug 2026 | – | ZLOG: 20% deposit within 10 days (€24,300 total) | Jan edition blended |
+| TBS Education Barcelona | Jan 2027 "Postgraduate in Sustainable Business" (3 months) | Deadline 12 Dec 2026 | €100 application; €4,500 total | Not a master |
+| IESE Global Executive MBA | Feb 2027 | – | €130 application; €13,600 deposit | Part-time modular |
+| ESCP Madrid | Executive Master in Int'l Business, 18 Jan 2027 | – | – | 100% online |
+| Saint Louis University Madrid | MA in Spanish, January | Deadline 1 Sep (passed) | – | Taught in Spanish |
+| Universidad Camilo José Cela | Int'l Education & Bilingualism, Feb | – | – | Feb edition is online |
+
+### 5c. No English on-campus master starting Jan–Mar 2027 (next intake shown where known)
+
+| School | Type | Next English intake / reason | Letter cost info found |
+|---|---|---|---|
+| UAB | Public (Catalonia) | Single yearly admission, September | – |
+| URV | Public (Catalonia) | September/October | – |
+| UdL | Public (Catalonia) | September | – |
+| UC3M | Public (Madrid) | September (March Abogacía is Spanish) | – |
+| UAM | Public (Madrid) | September; early admission 1 Oct 2026 – 8 Jan 2027 is for **Sept 2027** | €27.54 + €300 (non-refundable) |
+| UCM | Public (Madrid) | September | – |
+| URJC | Public (Madrid) | September | – |
+| UAH | Public (Madrid) | September | – |
+| UPV – Universitat Politècnica de València | Public | September only | €155.22 equivalence fee |
+| Universitat de València | Public | September | €300 reservation (non-refundable) |
+| Universidad de Alicante | Public | September | €100 reservation (non-refundable) |
+| Miguel Hernández | Public | September | – |
+| Jaume I | Public | September | – |
+| Granada, Sevilla, Málaga, Cádiz, Córdoba, Pablo de Olavide, Jaén, Almería, Huelva | Public (Andalusia) | September (shared Andalusian calendar, no Feb phase) | – |
+| UPV/EHU (Basque Country) | Public | September | ~€300 reservation |
+| UPNA (Navarra) | Public | September | – |
+| Zaragoza | Public | September | – |
+| Oviedo | Public | September | €300 reservation (non-refundable) |
+| La Rioja | Public | September (Feb window only for >60 ECTS masters) | – |
+| Salamanca, Valladolid, Burgos, León | Public | September | – |
+| Castilla-La Mancha, Murcia, UPCT (Cartagena), Illes Balears | Public | September | – |
+| UIC Barcelona | Private university | Sept/Oct | – |
+| Abat Oliba CEU | Private university | October | – |
+| CEU San Pablo | Private university | Sept–Nov (bilingual/online only) | – |
+| Francisco de Vitoria | Private university | September only | – |
+| Comillas (ICADE/ICAI) | Private university | Sept/Oct | – |
+| Alfonso X el Sabio | Private university | Sept/Oct, mostly Spanish | – |
+| Europea del Atlántico | Private university | Spanish on campus; English TESOL online | – |
+| Navarra (incl. IESE, ISEM) | Private university | September | – |
+| Mondragon | Private university | October | – |
+| Loyola Andalucía | Private university | Spanish/bilingual | – |
+| EDEM | Private | Sept/Oct, Spanish | – |
+| Católica de Valencia | Private university | 16 Sep 2026 | – |
+| UVic-UCC | Private university | October | – |
+| Villanueva | Private university | Spanish, October | – |
+| CUNEF | Private university | September | – |
+| ESNE / UDIT | Private university | 15 Oct 2026 | – |
+| U-tad | Private university | Spanish | – |
+| Tecnocampus | Private (UPF-attached) | October | – |
+| Atlántico Medio | Private university | Spanish | – |
+| Europea Miguel de Cervantes | Private university | Spanish, mostly online | – |
+| Católica de Ávila | Private university | Spanish | – |
+| San Jorge | Private university | October | – |
+| Fernando Pessoa Canarias | Private university | Spanish | – |
+| ESIC | Private university | October | – |
+| Nebrija | Private university | October | – |
+| Universidad Europea (other English masters) | Private university | Oct/Nov 2026 | – |
+| ESADE | Business school | September 2027 | €150 application |
+| ESCP Madrid (MSc) | Business school | October | €130 application + €3,600 deposit (Hospitality MSc) |
+| TBS Barcelona (MSc) | Business school | September | €100 application |
+| OSTELEA | Business school | October | – |
+| ESERP | Business school | October | €9,500 total |
+| Johan Cruyff Institute | Business school | September 2027 | – |
+| UIBS; United School for Liberal Studies | Business school | Blended only | – |
+| Neuro Business School | Business school | Hybrid (8 weeks on campus) | – |
+| INSA Barcelona | Business school | October | – |
+| Euroaula | Business school | Sept/Oct | – |
+| EIDM | Business school | October | – |
+| ISDI | Business school | October (evenings) | – |
+| EUDE | Business school | Online / hybrid | – |
+| Spain Business School | Business school | Spanish | – |
+| IEB | Business school | September | – |
+| Centro de Estudios Garrigues | Business school | October (English LLM part-time) | – |
+| Barcelona School of Economics | Business school | September | – |
+| UIE (Galicia) | Business school | September | – |
+| ESSCA Málaga | Business school | No master on this campus | – |
+| Advantere | Business school | September 2027 | €3,000 commitment fee (MIM €35,000) |
+| ESCI-UPF | Business school | September | – |
+| La Salle IGS Madrid | Business school | Part-time only | – |
+| WINGS – Wismar MBA | Business school | Blended | – |
+| SBI Barcelona | Business school | Online | – |
+| LCI Barcelona | Design | October | – |
+| BAU | Design | October | – |
+| CETT-UB | Hospitality | October | – |
+| ISEM | Fashion | September | – |
+| IAAC | Architecture | October | – |
+| Barcelona Culinary Hub | Culinary | November, Spanish | – |
+| IED Madrid | Design | October | – |
+| Vatel Spain | Hospitality | September | – |
+| Marbella Design Academy | Design | October | – |
+| ESDesign | Design | Online | – |
+| FX Barcelona Film School | Film | October | – |
+| ECIB | Film | Spanish | – |
+| TAI | Arts | October | – |
+| Berklee Valencia | Music | September | – |
+| IMMUNE | Tech | Online | – |
+| Nuclio | Tech | Spanish | – |
+| MSMK | Tech | September, Spanish | – |
+| ENTI-UB | Games | October, Spanish | – |
+| ERAM | Design | September 2027 | – |
+| GASMA | Culinary | Part of CEU (Spanish) | – |
+| Culinary Institute of Barcelona | Culinary | Diploma, not a master | – |
+| Universal Arts School | Arts | October (non-university diplomas) | – |
+| L'Idem | Arts | October | – |
+| CEI International Affairs | Int'l relations | September | – |
+| Epitech | Tech | September | – |
+| Endicott College (Madrid) | Education | Blended | – |
+| MArch (Valencia) | Architecture | Part-time | – |
+| IHMGS (Valencia) | Tourism | Spanish | – |
+| CESIF, CESTE, IFFE, GADE, Instituto Séneca, MIOTI, Fivestars, Makkers, Idep Barcelona, Málaga Film School, ISEP, ISMET, AFI Global Education | Various | Spanish-taught only | – |
+| CIS University Madrid; The American College in Spain | Various | Undergraduate only | – |
 
 ---
 
-## 6. Near misses (just outside Jan–Mar, not really on campus, or deadline passed)
-
-- **UNIE Universidad (Madrid)**: 5 English masters (MBA, Marketing & Sales, Data Science & BI, Project Mgmt, Supply Chain) start **April 2027**
-- **EU Business School**: its "March" intake actually starts classes on 5 April
-- **EAE Business School, Barcelona Technology School, Euncet, ESDi**: April 2027 intakes
-- **IE**: Business Analytics & Data Science full-time starts 20 April; the 9 Feb part-time edition is blended
-- **EUHT StPOL (Sant Pol de Mar)**: says "September or February" intakes, but only a September 2026 English edition is published (€9,950; needs kitchen experience)
-- **Norman Foster Institute (Madrid)**: Master on Sustainable Cities, Jan 2027, but the deadline was 1 June 2026 (€52,000, very hard)
-- **HTL International School**: 8 Jan 2027 in English, but attendance is optional and the visa goes through a separate Spanish-language course
-- **LaLiga Business School**: its February 2027 MBA is taught in Spanish (English version starts November)
-- **Zaragoza Logistics Center**: the January ZLOGb is blended; on-campus ZLOG starts in August
-- **TBS Barcelona**: January programme is a 3-month postgraduate, not a master
-- **IESE Global Executive MBA**: Feb 2027 but part-time modular
-- **ESCP Madrid**: January Executive Master is 100% online
-- **Saint Louis University Madrid**: January MA is taught in Spanish (deadline passed)
-
----
-
-## 7. Checked: no English on-campus master starting Jan–Mar 2027
-
-- **Public, Catalonia & Madrid:** UAB, URV, UdL, UC3M, UAM, UCM, URJC, UAH
-- **Public, rest of Spain:** UPV (Valencia Polytechnic), Universitat de València, Alicante, Miguel Hernández, Jaume I, Granada, Sevilla, Málaga, Cádiz, Córdoba, Pablo de Olavide, Jaén, Almería, Huelva, UPV/EHU (Basque Country), UPNA (Navarra), Zaragoza, Oviedo, La Rioja, Salamanca, Valladolid, Burgos, León, Castilla-La Mancha, Murcia, UPCT (Cartagena), Illes Balears
-- **Private universities:** UIC Barcelona, Abat Oliba CEU, CEU San Pablo, Francisco de Vitoria, Comillas, Alfonso X, Europea del Atlántico, Navarra (incl. IESE, ISEM), Mondragon, Loyola Andalucía, EDEM, Católica de Valencia, UVic-UCC, Villanueva, CUNEF, ESNE/UDIT, U-tad, Tecnocampus, Atlántico Medio, Europea Miguel de Cervantes, Católica de Ávila, ESIC, Nebrija, Saint Louis University Madrid, Camilo José Cela (Feb edition is online), San Jorge, Fernando Pessoa Canarias, Universidad Europea (except the Basketball master)
-- **Business schools:** ESADE, ESCP Madrid, TBS Barcelona, EAE, OSTELEA, ESERP, Johan Cruyff Institute, Barcelona Technology School, UIBS (blended only), United School for Liberal Studies, Neuro Business School, INSA Barcelona, Euroaula, EIDM, ISDI, EUDE, Spain Business School, IEB, Centro de Estudios Garrigues, Barcelona School of Economics, UIE, ESSCA Málaga, Advantere, ESCI-UPF, UBI Madrid (Spanish), La Salle IGS Madrid (part-time), WINGS (blended), LaLiga Business School, SBI Barcelona (online)
-- **Design / hospitality / tech / other:** LCI Barcelona, BAU, CETT-UB, ISEM, IAAC, Barcelona Culinary Hub, IED Madrid, Vatel Spain, Marbella Design Academy, ESDesign, FX Barcelona Film School, ECIB, TAI, Berklee Valencia, IMMUNE, Nuclio, MSMK, ENTI-UB, ERAM, GASMA, Culinary Institute of Barcelona, Universal Arts School, L'Idem, CEI International Affairs, Epitech, Endicott College, MArch, IHMGS (Spanish), Zaragoza Logistics Center
-- **Spanish-taught only:** CESIF, CESTE, IFFE, GADE, Instituto Séneca, MIOTI, Fivestars, Makkers, Idep Barcelona, Málaga Film School, ISEP, ISMET, AFI Global Education
-- **Undergraduate only:** CIS University Madrid, The American College in Spain
-
----
-
-## 8. Things to keep in mind
+## 6. Things to keep in mind
 
 1. **Official vs private degree.** Only UPC, UPF-BSM, IE, La Salle's MSc Digital Arts and (per EADA) EADA's masters are Spanish *official* degrees. A private or "título propio" master still qualifies for a student visa, but (per ESIC's site) it does **not** count toward Spain's post-study job-search residence permit.
 2. **Evening programmes** (IED, GBSB MA courses, ESEI, IAU): confirm with the consulate that the schedule counts as full-time study.
