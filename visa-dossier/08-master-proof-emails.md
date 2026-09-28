@@ -2,6 +2,8 @@
 
 Your details are filled in (Mohamed Aziz Dardouri, Ingeniería de Software, MedTech – South Mediterranean University, 5 years, 292.5 credits, GPA 2.7/4). Still to fill: `[año]` (graduation year), `[teléfono]`, `[correo]`, and in Email 4 the Ministry-equivalent grade. Use the exact degree title written on your diploma. Attach to each email: your diploma, all transcripts and your CV (scans are fine for a first contact). Send from a personal email address that uses your real name.
 
+> **Update 28 Sep 2026:** the plan is now in [09-master-proof-plan.md](09-master-proof-plan.md). Send **Emails 1, 2 and 7** now (Email 6 optional). Emails 3, 4, 5 and 8 are no longer useful: UCM, UAM and Universidad Europea need B2 when you apply.
+
 ## The proofs you can have by late November
 
 | # | Proof | How | When |
@@ -44,7 +46,7 @@ Resido en Túnez y realizaré un curso intensivo de español en España de febre
 
 1. si mi titulación permite el acceso al máster;
 2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
-3. el nivel de español recomendado para seguir las clases.
+3. el nivel de español recomendado para seguir las clases y si alguna asignatura se imparte en valenciano.
 
 Adjunto mi título, mi expediente académico y mi currículum.
 
@@ -54,7 +56,7 @@ Un cordial saludo,
 
 Mohamed Aziz Dardouri · [teléfono] · [correo]
 
-*English: asks whether your degree gives access, whether the programme takes part in Fase 0 for 2027-28 and when, and what Spanish level is recommended.*
+*English: asks whether your degree gives access, whether the programme takes part in Fase 0 for 2027-28 and when, what Spanish level is recommended, and whether any subject is taught in Valencian.*
 
 ## Email 2 — UPV, Análisis de Datos
 **To:** evallada@eio.upv.es
@@ -194,7 +196,7 @@ Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el 
 Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Su Normativa de Admisión y Matriculación de Máster (art. 10.2) indica que los estudiantes de habla no española son admitidos con carácter condicional. Les agradecería que me informaran de lo siguiente:
 
 1. si puedo ser admitido con carácter condicional sin tener todavía el certificado B2, y hasta qué fecha debería acreditarlo (DELE, SIELE o su prueba de idioma);
-2. si pueden emitir una carta de admisión, aunque sea condicional, antes del 30 de noviembre de 2026, válida para presentar en la Embajada de España en Túnez, y si la carta menciona la condición del nivel de español;
+2. si pueden emitir por escrito, antes del 30 de noviembre de 2026, una carta de admisión condicionada válida para presentar en la Embajada de España en Túnez, que indique la modalidad presencial, los 60 ECTS a tiempo completo, la fecha de inicio, el precio, y la condición y el plazo para acreditar el nivel B2;
 3. cuánto debo pagar para recibir la carta de admisión condicional (tasa de admisión o reserva de plaza, y su importe), el precio total del máster en 2027-2028, y si la reserva se devuelve en caso de denegación del visado, incluido el visado para el curso de español previo;
 4. si mi titulación da acceso directo al máster o requiere complementos formativos;
 5. la fecha de inicio y el horario de las clases en 2027-2028.
@@ -207,7 +209,7 @@ Un cordial saludo,
 
 Mohamed Aziz Dardouri · [teléfono] · [correo]
 
-*English: cites UNIE's own rule on conditional admission and asks: can you be admitted now without B2, and by when you must prove it; can they send a (conditional) admission letter for the embassy before 30 November 2026, and does it mention the Spanish condition; how much you must pay to receive the conditional admission letter, the total price, and whether the deposit is refunded if a visa is refused (including the Spanish-course visa); whether your degree gives direct access; the start date and timetable.*
+*English: cites UNIE's own rule on conditional admission and asks: can you be admitted now without B2, and by when you must prove it; can they send a written conditional admission letter for the embassy before 30 November 2026 stating in-person mode, 60 ECTS full-time, start date, price, and the B2 condition and deadline; how much you must pay to receive the conditional admission letter, the total price, and whether the deposit is refunded if a visa is refused (including the Spanish-course visa); whether your degree gives direct access; the start date and timetable.*
 
 ## Email 8 — Universidad Europea, Ciberseguridad (Madrid)
 **To:** postgrado@universidadeuropea.es
