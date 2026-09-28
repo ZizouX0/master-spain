@@ -22,6 +22,47 @@ No school publishes an acceptance rate for these intakes, so the scores are base
 
 ---
 
+## Quick list: when applications open, what the acceptance letter costs, and when you get it
+
+"When you get the letter" = the school's published decision time plus the payment step, counted from a complete application sent now (28 Sep 2026). In almost every case the letter is only issued **after** you pay the amount in the cost column.
+
+| # | School | Applications open | Cost to get the acceptance (visa) letter | When you get the letter |
+|---|---|---|---|---|
+| 1 | UPC (public, Barcelona) | **5 Oct 2026** (MAMME 16 Oct); closes 9 Dec | **€330.21** | Admitted list ~15 Jan 2027 (MAMME by 30 Nov), letter after you pay the €300 → **~late Jan 2027** (MAMME ~early Dec) |
+| 2 | La Salle (Barcelona) | **Open now** | **€1,500** | Decision ≤8 days; letter after you pay the reservation (within 15 days) → **~1–3 weeks** |
+| 3 | IED Barcelona | **Open now** | **€3,000** | Decision time not published; enrolment certificate for the visa after the €3,000 is paid |
+| 4 | EU Business School (Barcelona) | **Open now** | **€3,200** | Decision within 1 week; final acceptance letter after the €3,000 advance → **~1–2 weeks** |
+| 5 | ESE (Madrid) | **Open now** | **£3,550** | Reply within 7 days; enrolment letter after £50 + £3,500 → **~1–2 weeks** |
+| 6 | UPF-BSM (Barcelona) | Open **until 29 Sep 2026** | **€3,620** | Decision by 13 Oct; reservation due within 15 days → **~mid–late Oct** |
+| 7 | Les Roches (Marbella) | **Open now** (login portal) | **€4,275** | Offer in 1–2 weeks; €4,000 due within 15 days → **~2–4 weeks** |
+| 8 | Basque Culinary Center | **Open now**, until 18 Dec | **€4,547.50** | Decision time not published; visa documents after the reservation is paid |
+| 9 | BLC Spain (Madrid) | **Open now** | **€5,200** | Decision time not published; enrolment letter issued when the €2,300 second instalment is paid |
+| 10 | SBS Swiss (Barcelona/Madrid) | **Open now** | **€7,250** | Decision 5–10 working days; letter after admin fee + first term → **~2–3 weeks** |
+| 11 | Schiller (Madrid) | **Open now** | **≈ €8,280** + application fee | Conditional offer → pay deposit + interview → acceptance package; timing not published |
+| 12 | Geneva Business School | **Open now** | **€9,300** | Decision 6–10 days; final acceptance + visa documents after payment → **~2–3 weeks** |
+| 13 | IIG (Barcelona/Madrid) | **Open now** | **≈ €11,300** (≈ €10,350 early-bird) | Decision 6–10 days (another page says 2–3 weeks); letter after payment → **~2–4 weeks** |
+| 14 | C3S (Barcelona) | **Open now** (likely) | **€11,300** | Decision time not published; visa letter after full first-year payment |
+| 15 | Harbour.Space (Barcelona) | **Open now** (year-round) | **€125 – ≈ €11,575** | Decision 2–5 weeks; letter on acceptance (per FAQ) or after 50% deposit → **~2–5 weeks** |
+| 16 | MIUC (Marbella) | **Open now** | **≈ €11,850** | Review up to 4 weeks; official letter after first semester is paid → **~4–5 weeks** |
+| 17 | BEBS (Barcelona) | **Open now** | **≥ €630** + tuition prepayment (not published) | Decision in 3 working days; €600 within 3 days → **~1 week** (if no prepayment needed) |
+| 18 | ESEI (Barcelona) | **Open now** | Not published (≈ €150 + €1,500–3,000, unconfirmed) | Interview within ~1 week; letter ≤5 working days after enrolment fee → **~1–2 weeks** |
+| 19 | ESBS (Valencia) | **Open now** | Not published (first payment) | Decision ≤5 working days after interview; final letter after first payment → **~1–2 weeks** |
+| 20 | Schellhammer (Cádiz) | **Open now** | **€200** + deposit (not published) | Decision 3–5 working days; letter timing not published |
+| 21 | CMI (Madrid) | **Open now** | **€900** (€750 until 30 Sep), paid first | Reply in 24–48 h; letter timing not published. **May be Spanish-taught** |
+| 22 | GBSB Global (Barcelona) | **Open now**, until ~11 Dec | **≈ €4,430** (estimate: €1,250 fees + ~20% deposit) | Decision ~1 week; letter after deposit → **~2 weeks** |
+| 23 | Elisava (Barcelona) | **Open now**, non-EU until 16 Nov | **≈ €4,630** (estimate: €500 + 1st of 3 instalments) | ~20 working days after the €500; letter after 1st instalment → **~4–5 weeks** |
+| 24 | IE Business School (Madrid) | **Open now** (rolling) | €150 + reservation (not published) + €1,200 | Decision 1–3 weeks; visa documents after reservation → **~4–6 weeks** |
+| 25 | EADA (Barcelona) | **Open now**; next round 9 Oct | €50 + reservation (not published; ~€2,800 if 10%) | Round 9 Oct → reserve by 19 Oct → visa documents after enrolling → **~late Oct** |
+| 26 | BSBI (Madrid/Barcelona) | Can't verify (login); deadline January | €150 + deposit (not published) | ~10 working days; deposit invoice within 5 days, pay within 7 → **~3 weeks** |
+| 27 | UCAM (Murcia/Madrid) | Probably open | **≥ €430** + reservation (not published) | **Not before ~3 months before the start** (~mid/late Oct at the earliest) |
+| 28 | Universidad Europea – Basketball (Madrid) | **Open now** | Not published | Not published |
+| 29 | ISDE (Madrid/Barcelona) | **Open now** (rolling) | Not published (test fee + reservation) | Not published (after admission test) |
+| 30 | CEDEU (Madrid) | Not published | Not published | Not published |
+| 31 | Universidad de Cantabria | **18 Jan 2027** (in person, until 22 Jan) | No fee published | List 3 Feb 2027 → **too late for a visa** |
+| – | UPM February round | **16 Nov 2026** – 14 Jan 2027 | €0 | List 27 Jan 2027 → **too late for a visa** |
+
+---
+
 ## 1. Application calendar: when applications open and when to apply (sorted by the date to act by)
 
 **Almost every private school is already open today and admits on a rolling basis** (first come, first served, until places run out). None of them publishes the date applications opened. The public universities (UPC, UPM, Cantabria) open later in fixed windows.
