@@ -184,32 +184,34 @@ Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: asks whether your degree gives access, the Fase 0 dates for 2027-28, and by when you must prove B2 (DELE or SIELE).*
 
-## Email 7 — UNIE, Ciberseguridad (conditional admission without B2)
+## Email 7 — UNIE, Ciberseguridad (apply now + written conditional admission)
 **To:** admisiones.postgrado@universidadunie.com
 
-**Asunto:** Admisión condicionada – Máster Universitario en Ciberseguridad – curso 2027-2028
+**Asunto:** Solicitud de admisión para el curso 2027-2028 y carta de admisión condicionada – Máster Universitario en Ciberseguridad (presencial)
 
 Estimado equipo de Admisiones de Posgrado:
 
-Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ciberseguridad, en modalidad presencial en el Campus Arapiles, en el curso 2027-2028.
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Deseo cursar el Máster Universitario en Ciberseguridad, en modalidad presencial en el Campus Arapiles, en la edición que comienza en octubre de 2027, como especialización de mi formación en ingeniería de software.
 
-Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Su Normativa de Admisión y Matriculación de Máster (art. 10.2) indica que los estudiantes de habla no española son admitidos con carácter condicional. Les agradecería que me informaran de lo siguiente:
+Resido en Túnez y mi nivel actual de español es [A1/A2]. Para alcanzar el nivel B2 realizaré un curso intensivo de español en Madrid (Estudio Sampere, centro acreditado por el Instituto Cervantes) de febrero a septiembre de 2027. Para ese curso debo solicitar un visado de estudios en la Embajada de España en Túnez a principios de diciembre de 2026, y necesito acreditar que el curso de español es el paso previo a mi máster.
 
-1. si puedo ser admitido con carácter condicional sin tener todavía el certificado B2, y hasta qué fecha debería acreditarlo (DELE, SIELE o su prueba de idioma);
-2. si pueden emitir por escrito, antes del 30 de noviembre de 2026, una carta de admisión condicionada válida para presentar en la Embajada de España en Túnez, que indique la modalidad presencial, los 60 ECTS a tiempo completo, la fecha de inicio, el precio, y la condición y el plazo para acreditar el nivel B2;
-3. cuánto debo pagar para recibir la carta de admisión condicional (tasa de admisión o reserva de plaza, y su importe), el precio total del máster en 2027-2028, y si la reserva se devuelve en caso de denegación del visado, incluido el visado para el curso de español previo;
-4. si mi titulación da acceso directo al máster o requiere complementos formativos;
-5. la fecha de inicio y el horario de las clases en 2027-2028.
+Según el artículo 10.2 de su Normativa de Admisión y Matriculación de Máster, los estudiantes de habla no española son admitidos con carácter condicional. Por ello, les agradecería que me indicaran:
 
-Adjunto mi título, mi expediente académico, mi currículum y una carta de motivación.
+1. si puedo iniciar ya el proceso de admisión (entrevista y envío de documentación) para la edición de octubre de 2027;
+2. si, en caso de valoración favorable, pueden emitirme por escrito antes del 30 de noviembre de 2026 una carta de admisión condicionada en la que conste la modalidad presencial, los 60 ECTS a tiempo completo, la fecha de inicio, el precio, y que la única condición es acreditar el nivel B2 de español (mediante certificado o su prueba de nivel), con el plazo para hacerlo;
+3. si la emisión de esa carta requiere algún pago (tasa o reserva de plaza), su importe, y si se devuelve en caso de denegación del visado;
+4. si la entrevista puede realizarse en línea;
+5. si mi titulación da acceso directo al máster o requiere complementos formativos.
 
-Muchas gracias por su atención.
+Adjunto mi pasaporte, mi título, mi expediente académico, mi currículum y una carta de motivación.
+
+Quedo a su disposición para cualquier información adicional. Muchas gracias por su atención.
 
 Un cordial saludo,
 
 Mohamed Aziz Dardouri · [teléfono] · [correo]
 
-*English: cites UNIE's own rule on conditional admission and asks: can you be admitted now without B2, and by when you must prove it; can they send a written conditional admission letter for the embassy before 30 November 2026 stating in-person mode, 60 ECTS full-time, start date, price, and the B2 condition and deadline; how much you must pay to receive the conditional admission letter, the total price, and whether the deposit is refunded if a visa is refused (including the Spanish-course visa); whether your degree gives direct access; the start date and timetable.*
+*English: says you want to start UNIE's admission process now for the October 2027 intake of the in-person Máster en Ciberseguridad, explains the Spanish course in Madrid (Feb–Sep 2027) and the December visa appointment, cites UNIE's own rule on conditional admission, and asks: (1) can you start the admission process now; (2) if the committee says yes, can they send a written conditional admission letter before 30 November 2026 stating in-person mode, 60 ECTS full-time, start date, price, and that B2 (certificate or their test) is the only condition, with its deadline; (3) whether that letter requires a payment, how much, and whether it is refunded if the visa is refused; (4) whether the interview can be online; (5) whether your degree gives direct access.*
 
 ## Email 8 — Universidad Europea, Ciberseguridad (Madrid)
 **To:** postgrado@universidadeuropea.es
