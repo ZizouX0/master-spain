@@ -203,7 +203,7 @@ Según el artículo 10.2 de su Normativa de Admisión y Matriculación de Máste
 4. si la entrevista puede realizarse en línea;
 5. si mi titulación da acceso directo al máster o requiere complementos formativos.
 
-Adjunto mi pasaporte, mi título, mi expediente académico, mi currículum y una carta de motivación.
+Si me lo indican, les enviaré enseguida mi título, mi expediente académico, mi currículum y una carta de motivación.
 
 Quedo a su disposición para cualquier información adicional. Muchas gracias por su atención.
 
