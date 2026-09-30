@@ -31,7 +31,7 @@ node tools/html_to_pdf.js pack.html Dossier_Visa_Espagne.pdf
 | [08-master-proof-emails.md](08-master-proof-emails.md) | Emails to coordinators and admissions offices, with your details filled in | Send Emails 1, 2 and 7 |
 | [09-master-proof-plan.md](09-master-proof-plan.md) · [PDF](Master_Proof_Plan_v3.pdf) | **The plan to have proof of the master's by 1 December 2026**: course, proofs, supporting documents, dated to-do list, go / no-go | **Current plan** |
 | [11-emails-to-send.md](11-emails-to-send.md) · [PDF](Emails_To_Send_v1.pdf) | **Every email to send**: who to send it to, when, what to attach, and the full text (UNIE, Cádiz, UPV, Sampere, Instituto Cervantes, MedTech, embassy), plus your friend's questions | **Send this week** |
-| [10-friend-business-master-proofs.md](10-friend-business-master-proofs.md) | Business master's proofs for a friend | Reference |
+| [10-friend-business-master-proofs.md](10-friend-business-master-proofs.md) · [PDF](Friend_Business_Proofs_v1.pdf) | **For a friend with a business degree**: the proofs he can get (ESIC, UNIE, UPV Fase 0, Zaragoza, Murcia, CEU), the plan, the to-do list and 6 ready-to-send emails | Ready to share |
 
 ## Official sources used
 
