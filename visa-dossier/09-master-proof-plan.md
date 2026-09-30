@@ -1,6 +1,6 @@
 # The plan: proof of the master's by 1 December 2026
 
-Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents proposed ideas, five research agents checked them on official sources, and a reviewer acting as the consular officer tested the result. Everything below was checked on an official page unless marked *to confirm*.
+Prepared 28 September 2026, updated 30 September 2026 for Mohamed Aziz Dardouri. Three strategy agents proposed ideas, five research agents checked them on official sources, and a reviewer acting as the consular officer tested the result. Everything below was checked on an official page unless marked *to confirm*.
 
 **The idea in one line:** the course is presented as the condition of a master's you are already joining, not as "a language course". In practice:
 
@@ -18,6 +18,7 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 | Spanish course at a university's own language centre instead of Sampere | **Not worth it.** The rule that treats these courses as "higher education" (Instrucción SEM 3/2025) binds the immigration offices, not the consulate. These courses start in January, which means filing by early November, and several are run by companies. |
 | Universidad de Navarra, Big Data (Madrid) | **Dropped.** It costs €19,600, classes are on Fridays and Saturdays, and its pages contradict each other on whether the deposit is refunded. |
 | Sampere 20-week course | **Replaced by 32 weeks.** 20 weeks is too short to reach B2, and it would force the switch to the master's by about 10 May. |
+| UC3M, UPM, Universidad de La Laguna, Ministry equivalence, scholarships, Erasmus Mundus | **Not useful before 1 December.** UC3M needs a B2 upload, UPM opens in January, La Laguna is part-online, the Ministry takes up to 6 months, no scholarship is open to Tunisians before December, and Erasmus Mundus is taught in English. |
 
 ---
 
@@ -37,11 +38,16 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 
 ## 2. The master's proofs to have by 1 December
 
+Ranked from strongest to weakest. Aim for **three or four of them**, all in software or security and all taught in Spanish.
+
 | # | Proof | What you get | Cost | Notes |
 |---|---|---|---|---|
-| 1 | **UNIE – MU en Ciberseguridad** (Madrid, in person, taught in Spanish, official degree RUCT 3500240) — **main target** | **Written conditional admission.** UNIE's rules, art. 10.2: non-Spanish speakers "serán admitidos con carácter condicional", and B2 is proven later by a certificate or UNIE's own test. | Applying is free. The reservation amount isn't published: pay it only if it's refunded when a visa is refused. | Rolling admission: interview → documents (transcript, CV, motivation letter) → committee. **They give the result by phone, so ask for it in writing.** |
-| 2 | **UPV Fase 0** — MU Ingeniería y Tecnología de Sistemas Software (1st choice), MU Ingeniería de Análisis de Datos (2nd) — **public backup** | Application summary + paid fee receipt. Later, the degree-equivalence decision and possibly an admission certificate. | €155.22 | The 2027-28 dates aren't published; last year it opened on 17 November. Neither master has a language requirement ("Requisito lingüístico: No"), so UPV can admit you without B2. That also makes it your **safety net** after you arrive. Both list "Español, Valenciano": ask which subjects are taught in Valencian. |
-| 3 | Optional: **Universidad de Murcia** degree-level check for MU Big Data | A decision naming that master's | €55 | Only if UPV Fase 0 hasn't opened by about 20 November. |
+| 1 | **UNIE – MU en Ciberseguridad** (Madrid, in person, taught in Spanish, RUCT 3500240) — **main target** | **Written conditional admission.** UNIE's rules, art. 10.2: non-Spanish speakers "serán admitidos con carácter condicional", with B2 proven later by a certificate or UNIE's own test. | Applying is free. The reservation amount isn't published, so pay only if it's refunded when a visa is refused. | Admission is rolling: interview → documents → committee. **They give the result by phone, so ask for it in writing.** You reported UNIE may not offer this, so **confirm in writing first**. If UNIE is out, UPV Sistemas Software becomes your main target. |
+| 2 | **UNIE "Despega" study aid, 2027-28** | A written aid decision (30% or 50%) within 5 working days, after admission. Applications 1 Oct – 21 Dec 2026, in order of arrival. | Free to apply. If granted, the reservation must be paid within 4 days. | Only after the UNIE admission. Confirm the aid is for the October 2027 edition. |
+| 3 | **Universidad de Cádiz – pre-admission letter "for visa procedures"**: MU Seguridad Informática (Ciberseguridad), in person, Puerto Real campus, taught in Spanish | A pre-admission letter from a public university, which its Postgraduate Office issues specifically for visas | Free | Send Email 2 of the emails PDF, with passport and diploma copies. They may ask for a copy of your embassy appointment. This is pre-admission; the real admission is in the Andalusian window in January. |
+| 4 | **UPV Fase 0** — **public backup**, up to 4 masters for one fee: 1) Sistemas Software, 2) Análisis de Datos (no language requirement), 3) Computadores y Redes or Automática e Informática Industrial (Spanish B2), 4) optional: Tecnologías, Sistemas y Redes de Comunicaciones (Spanish or English B2) | Application summary + paid fee receipt. Later, the degree-equivalence decision and possibly an admission certificate. | €155.22 | The 2027-28 dates aren't published; last year it opened on 17 November. The masters without a language requirement can admit you without B2, which makes them your **safety net**. The B2 ones show in writing why you need the course. Admission to a higher preference cancels the lower ones. Ask which subjects are taught in Valencian. |
+| 5 | CEU Fernando III (Seville) – MU Business Analytics & Big Data | Written conditional admission before payment; interview result in 24–48 h | €350 reservation, **not** refunded if the visa is refused | Only if its 2027-28 intake opens before December. It's more business than computer science. |
+| 6 | Optional: **Universidad de Murcia** degree-level check for MU Big Data | A decision naming that master's | €55 | Only if UPV Fase 0 hasn't opened by about 20 November. |
 
 **What UNIE's letter must say:**
 
@@ -97,7 +103,7 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 
 **This week (29 September – 4 October)**
 
-- **UNIE:** send Email 7 and call +34 919 032 201 to ask for the admission interview.
+- **UNIE:** send Email 1 (emails PDF) and call +34 919 032 201 to ask for the admission interview.
 - **Sampere** (sampere@sampere.com): ask for the 2027 price of the 32-week long-term course in Madrid starting 8 February 2027. Ask for a letter stating:
     - the dates;
     - 20 lessons a week;
@@ -109,7 +115,8 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 - **Bank:** ask how it applies art. 6 (one file for course + master's) and which master's documents it accepts.
 - **Instituto Cervantes Tunis** (actun1@cervantes.es): book the placement test and ask about the autumn intensive module.
 - **SIELE:** book the SIELE Global in Tunis (sessions are listed until 20 October).
-- **UPV:** send Email 1. Ask for the Fase 0 dates and which subjects are taught in Valencian.
+- **UPV:** send Emails 3 and 4 (emails PDF). Ask for the Fase 0 dates and which subjects are taught in Valencian.
+- **Cádiz:** send Email 2 (emails PDF, with passport and diploma copies) to get the pre-admission letter for the visa.
 
 **October**
 
@@ -149,7 +156,7 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 
 ## 6. What the motivation letter and the interview must say
 
-1. **One goal:** the MU en Ciberseguridad at UNIE, in person, October 2027. Present it as the specialisation of your software-engineering degree (cite your security courses and projects), with UPV Sistemas Software as the alternative.
+1. **One goal:** the MU en Ciberseguridad at UNIE, in person, October 2027 (or UPV Sistemas Software if UNIE is out). Present it as the specialisation of your software-engineering degree (cite your security courses and projects), with UPV Sistemas Software as the alternative.
 2. **Why in Spanish, and why Spain:** give true, specific reasons (the programme's content, an official European degree, your career plan). Expect the question "Why not an English-taught master's, or Spanish lessons at the Cervantes in Tunis?"
 3. **A realistic language path:**
     - your certified level today;
@@ -166,25 +173,6 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 - about 3/10 with neither the UNIE letter nor the UPV receipt, which is why the go / no-go step exists.
 
 ---
-
-## Update 30 September 2026: more proof options
-
-A second search added these (V = checked on the official page):
-
-| Option | What you get | Cost | Strength | Next step |
-|---|---|---|---|---|
-| **Universidad de Cádiz – pre-admission letter for the visa**, MU Seguridad Informática (Ciberseguridad): in person, Puerto Real campus, taught in Spanish | The Postgraduate Office issues pre-admission letters "a efectos de ... trámites de visado" (V). It asks for passport + degree copies, and possibly a copy of the embassy appointment. | Free (I) | Medium-strong: a public university, same field as UNIE | Send Email 9 (posgrado@uca.es, cc master.ciberseguridad@uca.es) |
-| **UNIE "Despega" study-aid programme, 2027-28** | A written aid decision within 5 working days, after admission. Applications 1 Oct–21 Dec 2026, in order of arrival (V). | Free to apply. If granted, the reservation must be paid within 4 days (amount and visa refund to confirm). | Strong on top of the UNIE admission | Apply as soon as UNIE admits you. Ask UNIE to confirm the aid is for the October 2027 edition (the rules also mention Oct 2026 / Apr 2027). |
-| **UPV Fase 0 – more masters on the same application** (up to 4 for one €155.22 fee) | Add Computadores y Redes or Automática e Informática Industrial (both require Spanish B2, which shows why you need the course). Tecnologías, Sistemas y Redes de Comunicaciones accepts Spanish or English B2. | €0 extra | Same as the UPV receipt | Choose the order carefully: admission to a higher preference cancels the lower ones |
-| CEU Fernando III (Seville) – MU Business Analytics & Big Data | Written conditional admission before payment; interview result in 24–48 h (V) | €350 reservation, no visa refund (V) | Medium (more business than computer science) | Only if the 2027-28 intake opens before December |
-
-Checked and not useful before 1 December:
-- UC3M: needs a B2 upload;
-- UPM: the September intake opens in January;
-- Universidad de La Laguna: its masters are part-online;
-- Ministry equivalence: no decision within 6 months;
-- scholarships: none open to Tunisians before December;
-- Erasmus Mundus: taught in English, which would weaken the file.
 
 ## Key sources
 

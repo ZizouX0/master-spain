@@ -42,13 +42,13 @@ Estimada profesora Abrahao:
 
 Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ingeniería y Tecnología de Sistemas Software en el curso 2027-2028.
 
-Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a septiembre de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
 
 1. si mi titulación permite el acceso al máster;
 2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
 3. el nivel de español recomendado para seguir las clases y si alguna asignatura se imparte en valenciano.
 
-Adjunto mi título, mi expediente académico y mi currículum.
+Si lo necesita, puedo enviarle mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
 
@@ -67,13 +67,13 @@ Estimada profesora Vallada:
 
 Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones en el curso 2027-2028.
 
-Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a septiembre de 2027 para alcanzar el nivel B2. Le agradecería que me confirmara:
 
 1. si mi titulación permite el acceso al máster;
 2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
 3. el nivel de español recomendado para seguir las clases.
 
-Adjunto mi título, mi expediente académico y mi currículum.
+Si lo necesita, puedo enviarle mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
 
@@ -120,7 +120,7 @@ Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el 
 Les agradecería que me confirmaran:
 
 1. qué nota mínima se aplica a este máster (8,70 o 7,30);
-2. si el certificado de nivel B2 de español puede presentarse más adelante (por ejemplo, antes de junio de 2027), ya que realizaré un curso intensivo en España de febrero a junio de 2027;
+2. si el certificado de nivel B2 de español puede presentarse más adelante (por ejemplo, antes de septiembre de 2027), ya que realizaré un curso intensivo en España de febrero a septiembre de 2027;
 3. los pasos para enviar la solicitud de Early Admission.
 
 Adjunto mi título, mi expediente académico y mi currículum.
@@ -168,13 +168,13 @@ Estimado profesor Ruiz García:
 
 Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ingeniería de Computadores y Redes en el curso 2027-2028.
 
-Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2 que exige el máster. Le agradecería que me confirmara:
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a septiembre de 2027 para alcanzar el nivel B2 que exige el máster. Le agradecería que me confirmara:
 
 1. si mi titulación permite el acceso al máster;
 2. si el máster participará en la Fase 0 del curso 2027-2028 y en qué fechas;
 3. hasta qué fecha puedo acreditar el nivel B2 de español (DELE o SIELE).
 
-Adjunto mi título, mi expediente académico y mi currículum.
+Si lo necesita, puedo enviarle mi título, mi expediente académico y mi currículum.
 
 Muchas gracias por su atención.
 
@@ -222,7 +222,7 @@ Estimado equipo de Admisiones de Posgrado:
 
 Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año], con una nota media de 2,7/4 (5 años de estudios, 292,5 créditos). Me interesa cursar el Máster Universitario en Ciberseguridad en el campus de Madrid, en modalidad presencial, en el curso 2027-2028.
 
-Resido en Túnez y realizaré un curso intensivo de español en España de febrero a junio de 2027 para alcanzar el nivel B2. Según su Normativa de Posgrado 2026-2027, el nivel B2 es requisito para la admisión y la matrícula, y la carta de admisión para el visado se emite tras abonar la reserva de plaza y la matrícula. Les agradecería que me confirmaran:
+Resido en Túnez y realizaré un curso intensivo de español en España de febrero a septiembre de 2027 para alcanzar el nivel B2. Según su Normativa de Posgrado 2026-2027, el nivel B2 es requisito para la admisión y la matrícula, y la carta de admisión para el visado se emite tras abonar la reserva de plaza y la matrícula. Les agradecería que me confirmaran:
 
 1. si puedo iniciar ahora el proceso de admisión y acreditar el nivel B2 (DELE, SIELE o su prueba de idioma) más adelante, antes del inicio de las clases, y cuál sería la fecha límite;
 2. si pueden emitir, antes del 30 de noviembre de 2026, algún documento de admisión, aunque sea condicional, para presentar en la Embajada de España en Túnez;
