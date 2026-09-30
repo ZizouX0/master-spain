@@ -29,7 +29,7 @@ node tools/html_to_pdf.js pack.html Dossier_Visa_Espagne.pdf
 | [06-questionnaire.md](06-questionnaire.md) | The facts I need from you to finish 03, 04 and 05 | **Fill this in** |
 | [07-masters-shortlist.md](07-masters-shortlist.md) | Computer science / data master's shortlist (26 Sep research) | Partly superseded by 09 |
 | [08-master-proof-emails.md](08-master-proof-emails.md) | Emails to coordinators and admissions offices, with your details filled in | Send Emails 1, 2 and 7 |
-| [09-master-proof-plan.md](09-master-proof-plan.md) · [PDF](Master_Proof_Plan_v1.pdf) | **The plan to have proof of the master's by 1 December 2026**: course, proofs, supporting documents, dated to-do list, go / no-go | **Current plan** |
+| [09-master-proof-plan.md](09-master-proof-plan.md) · [PDF](Master_Proof_Plan_v2.pdf) | **The plan to have proof of the master's by 1 December 2026**: course, proofs, supporting documents, dated to-do list, go / no-go | **Current plan** |
 
 ## Official sources used
 

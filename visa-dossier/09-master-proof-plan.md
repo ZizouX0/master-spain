@@ -167,6 +167,25 @@ Prepared 28 September 2026 for Mohamed Aziz Dardouri. Three strategy agents prop
 
 ---
 
+## Update 30 September 2026: more proof options
+
+A second search added these (V = checked on the official page):
+
+| Option | What you get | Cost | Strength | Next step |
+|---|---|---|---|---|
+| **Universidad de Cádiz – pre-admission letter for the visa**, MU Seguridad Informática (Ciberseguridad): in person, Puerto Real campus, taught in Spanish | The Postgraduate Office issues pre-admission letters "a efectos de ... trámites de visado" (V). It asks for passport + degree copies, and possibly a copy of the embassy appointment. | Free (I) | Medium-strong: a public university, same field as UNIE | Send Email 9 (posgrado@uca.es, cc master.ciberseguridad@uca.es) |
+| **UNIE "Despega" study-aid programme, 2027-28** | A written aid decision within 5 working days, after admission. Applications 1 Oct–21 Dec 2026, in order of arrival (V). | Free to apply. If granted, the reservation must be paid within 4 days (amount and visa refund to confirm). | Strong on top of the UNIE admission | Apply as soon as UNIE admits you. Ask UNIE to confirm the aid is for the October 2027 edition (the rules also mention Oct 2026 / Apr 2027). |
+| **UPV Fase 0 – more masters on the same application** (up to 4 for one €155.22 fee) | Add Computadores y Redes or Automática e Informática Industrial (both require Spanish B2, which shows why you need the course). Tecnologías, Sistemas y Redes de Comunicaciones accepts Spanish or English B2. | €0 extra | Same as the UPV receipt | Choose the order carefully: admission to a higher preference cancels the lower ones |
+| CEU Fernando III (Seville) – MU Business Analytics & Big Data | Written conditional admission before payment; interview result in 24–48 h (V) | €350 reservation, no visa refund (V) | Medium (more business than computer science) | Only if the 2027-28 intake opens before December |
+
+Checked and not useful before 1 December:
+- UC3M: needs a B2 upload;
+- UPM: the September intake opens in January;
+- Universidad de La Laguna: its masters are part-online;
+- Ministry equivalence: no decision within 6 months;
+- scholarships: none open to Tunisians before December;
+- Erasmus Mundus: taught in English, which would weaken the file.
+
 ## Key sources
 
 - RD 1155/2024: art. 36.1 (file 2 months before), 52.1.e.2º, 54 (switch inside Spain), 55.5 (extension). BOE consolidated text.

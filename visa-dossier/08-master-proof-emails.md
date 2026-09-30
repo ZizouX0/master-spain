@@ -2,7 +2,7 @@
 
 Your details are filled in (Mohamed Aziz Dardouri, Ingeniería de Software, MedTech – South Mediterranean University, 5 years, 292.5 credits, GPA 2.7/4). Still to fill: `[año]` (graduation year), `[teléfono]`, `[correo]`, and in Email 4 the Ministry-equivalent grade. Use the exact degree title written on your diploma. Attach to each email: your diploma, all transcripts and your CV (scans are fine for a first contact). Send from a personal email address that uses your real name.
 
-> **Update 28 Sep 2026:** the plan is now in [09-master-proof-plan.md](09-master-proof-plan.md). Send **Emails 1, 2 and 7** now (Email 6 optional). Emails 3, 4, 5 and 8 are no longer useful: UCM, UAM and Universidad Europea need B2 when you apply.
+> **Update 28 Sep 2026:** the plan is now in [09-master-proof-plan.md](09-master-proof-plan.md). Send **Emails 1, 2, 7 and 9** now (Email 6 optional). Emails 3, 4, 5 and 8 are no longer useful: UCM, UAM and Universidad Europea need B2 when you apply.
 
 ## The proofs you can have by late November
 
@@ -239,6 +239,29 @@ Un cordial saludo,
 Mohamed Aziz Dardouri · [teléfono] · [correo]
 
 *English: says you know B2 is required and the visa letter comes after paying, then asks: can you start admission now and prove B2 later, by what date; can they issue any (even conditional) admission document before 30 November 2026; exactly how much you must pay to receive the visa admission letter (deposit + enrolment) and the total price; whether the refund for a refused visa also covers a refused Spanish-course visa; whether your degree gives access.*
+
+## Email 9 — Universidad de Cádiz, pre-admission letter for the visa (Seguridad Informática / Ciberseguridad)
+**To:** posgrado@uca.es · **Cc:** master.ciberseguridad@uca.es
+
+**Asunto:** Solicitud de carta de preadmisión para trámite de visado – Máster Universitario en Seguridad Informática (Ciberseguridad) – curso 2027-2028
+
+Estimados señores:
+
+Me llamo Mohamed Aziz Dardouri y soy graduado en Ingeniería de Software por el Mediterranean Institute of Technology (MedTech), South Mediterranean University, Túnez, en [año] (5 años de estudios). Deseo cursar el Máster Universitario en Seguridad Informática (Ciberseguridad), en modalidad presencial, en el curso 2027-2028.
+
+Resido en Túnez y, antes del máster, realizaré en España un curso intensivo de español de febrero a septiembre de 2027. Para ello debo solicitar un visado de estudios en la Embajada de España en Túnez a principios de diciembre de 2026, y necesito acreditar mi proyecto de estudios de máster.
+
+Según la información de su Oficina de Posgrado, emiten cartas de preadmisión a efectos de trámites de visado. Por ello, les agradecería que me emitieran una carta de preadmisión para el Máster Universitario en Seguridad Informática (Ciberseguridad), curso 2027-2028, y que me indicaran si necesitan algún documento adicional (por ejemplo, la copia de la cita en la Embajada).
+
+Adjunto copia de mi pasaporte y de mi título.
+
+Muchas gracias por su atención.
+
+Un cordial saludo,
+
+Mohamed Aziz Dardouri · [teléfono] · [correo]
+
+*English: says you want the in-person Máster en Seguridad Informática (Ciberseguridad) for 2027-28, explains the Spanish course and the December visa appointment, cites the Postgraduate Office's own service of pre-admission letters for visa procedures, and asks for that letter and whether they need anything else (e.g. a copy of the embassy appointment). Attach your passport and diploma copies — the office asks for them.*
 
 ---
 
